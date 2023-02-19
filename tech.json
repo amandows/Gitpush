@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 225,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "programmovich",
+            "title": "Технология ABENICS: революция в области механики?",
+            "description": "Прорыв в инженерии, о котором говорит весь интернет. Почему-то на Хабре нет, так что решил рассказать. Итак, ABENICS — это Active Ball Joint Mechanism. Проект разработан Университетом Ямагата в Японии, и являет собой специальную сферическую механическую конст…",
+            "url": "https://habr.com/ru/company/first/blog/711292/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/4da/d6e/dae/4dad6edae95b2da7d53dfa013b949a29.png",
+            "publishedAt": "2023-01-18T11:00:02Z",
+            "content": ", . - , . \r\n, ABENICS Active Ball Joint Mechanism. , . , , . , , - \r\n.\r\n . :\r\n , ABENICS . . . , , «» (S) «-» (MP).  \r\n MP- , , . . CAD\r\n.\r\n , , , : «» , . -\r\n. .\r\n . - . , . , .\r\n , , ( ). , , - . ,… [+336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techinsider.ru"
+            },
+            "author": "Дмитрий Мамонтов",
+            "title": "Полароид: легендарная технология, изобретенная совершенно случайно",
+            "description": "В 1927 году только что закончивший первый курс химического факультета Гарварда Эдвин Лэнд прогуливался по Бродвею в Нью-Йорке. Обилие сияющих неоновых реклам и фары автомобилей слепили его, и он задумался о том, можно ли защититься от потоков слепящего света.",
+            "url": "https://www.techinsider.ru/diy/13147-polaroid-tekhnologiya-izobretyennaya-sluchayno/",
+            "urlToImage": "https://images.techinsider.ru/upload/img_cache/d55/d556eaa8916405e2010c8b305aa36983_ce_1000x527x0x0_cropped_1000x524.jpg",
+            "publishedAt": "2023-02-18T14:30:00Z",
+            "content": "1929 ,   ,       Land-Wheelwright Laboratories.  1934 Kodak,   ,    $10 000. , ,   ,     Polaroid.\r\n   , ,    .    .  1943 ,   ,  ,   ,       . , , .  ,   -,   , . «       ,  ,   ,  ».     ,    ,  , … [+201 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "Елена Апазиди",
+            "title": "В Антарктиду привезли комплекс для выращивания арбузов",
+            "description": "На антарктическую станцию «Восток» привезли фитокомплекс для выращивания арбузов и огурцов. Технология представляет собой специальный набор питательных составов для растений и светодиодное освещение, заменяющее солнечный свет. Кроме того, фитокомплекс не имее…",
+            "url": "https://lenta.ru/news/2023/01/31/watermelon/",
+            "urlToImage": "https://icdn.lenta.ru/images/2023/01/30/18/20230130184616402/share_f337b95814c5094ac7127291427eb105.jpg",
+            "publishedAt": "2023-01-31T06:47:43Z",
+            "content": ": / \r\n«» - . «» .\r\n. «» 50 . . .\r\n , . , , , . , .\r\n «» , 30 ."
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "Елена Апазиди",
+            "title": "Созданы наночастицы для доставки генетического редактора в мозг",
+            "description": "Специалисты Университета Висконсин-Мэдисон создали наночастицы для доставки генетического редактора CRISPR в мозг. Технология может применяться для точечной терапии болезни Альцгеймера или Паркинсона. В дальнейшем планируется протестировать эффективность нано…",
+            "url": "https://lenta.ru/news/2023/01/23/nano/",
+            "urlToImage": "https://icdn.lenta.ru/images/2023/01/20/19/20230120191539127/share_68d9fc740e956a709981a7a381b3fa1a.jpg",
+            "publishedAt": "2023-01-23T08:04:02Z",
+            "content": "- CRISPR . . , Advanced Materials.\r\n CRISPR « », . .\r\n , ( ) . , , .\r\n , , . , , . , , .\r\n , , , ."
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "Елена Апазиди",
+            "title": "Генетический редактор CRISPR модифицировали для выявления рака",
+            "description": "Команда китайских специалистов из университета Чжэнчжоу модифицировала генетический редактор CRISPR/Cas для точного выявления раковых клеток внутри организма. Технология основана на прицеливании и подсвечивании опухолевых клеток, которые постоянно выделяют эк…",
+            "url": "https://lenta.ru/news/2023/02/03/crispr/",
+            "urlToImage": "https://icdn.lenta.ru/images/2023/02/02/17/20230202170039791/share_4fb135f4703b7b34fe7b2b73b2075850.jpg",
+            "publishedAt": "2023-02-03T03:30:41Z",
+            "content": "CRISPR/Cas . ACS Sensors.\r\n CRISPR/Cas9 « », , . 2020 .\r\n CRISPR . , , .\r\n . , Cas13, , . Cas13 , . .\r\n : ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techinsider.ru"
+            },
+            "author": "Виталий Маршак",
+            "title": "Новая технология позволяет «видеть» людей сквозь стены. Для этого нужен только сигнал Wi-Fi",
+            "description": "Исследователи из Университета Карнеги-Меллона разработали метод на основе машинного обучения, позволяющий определить положение фигур (в том числе позу человека), сквозь стену. И для этого нужен только сигнал Wi-Fi.",
+            "url": "https://www.techinsider.ru/popmem/news-1576571-novaya-tehnologiya-pozvolyaet-videt-lyudey-skvoz-steny-dlya-etogo-nuzhen-tolko-signal-wi-fi/",
+            "urlToImage": "https://images.techinsider.ru/upload/img_cache/af0/af0038e5a695edcfd1e8071f609c6890_ce_687x458x74x0_cropped_687x360.png",
+            "publishedAt": "2023-01-20T12:11:00Z",
+            "content": "vk 373\r\n,      arXiv,     Wi-Fi     .\r\nDensePose,     RGB- .\r\n:\r\n, Wi-Fi        LIDAR.\r\n,   , ,   .\r\n.\r\n« ,     Wi-Fi ,         », .\r\n, , « »     .    ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techinsider.ru"
+            },
+            "author": "Никита Шевцев",
+            "title": "Ученые напечатали отличные искусственные мышцы, используя инновационную технологию",
+            "description": "Новая технология 3D-печати позволила ученым создавать нити, сотканные сразу из нескольких материалов.",
+            "url": "https://www.techinsider.ru/science/news-1576791-uchenye-napechatali-otlichnye-iskusstvennye-myshcy-ispolzuya-innovacionnuyu-tehnologiyu/",
+            "urlToImage": "https://images.techinsider.ru/upload/img_cache/b85/b855b6a9a2ace4ba13005d14027ec1d7_ce_937x624x29x0_cropped_937x491.png",
+            "publishedAt": "2023-01-23T03:54:00Z",
+            "content": "vk 373\r\n3D-     , , ,     . ,  3D- .\r\n  .   ,   «» (  ).    , ,   .\r\n  ,  .   , ,       . \r\n,   , ,   .    , .   ,  .\r\n,   , .  , , , ,   .  , ,     ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techinsider.ru"
+            },
+            "author": "Никита Шевцев",
+            "title": "«Акустические голограммы» быстро собирают объекты из частиц и клеток",
+            "description": "Ученые создали “акустические голограммы”, которые могут собирать материю в 3D-объекты, используя лишь звук. Технология работает с различными типами частиц и даже с живыми клетками.",
+            "url": "https://www.techinsider.ru/gadgets/news-1580683-akusticheskie-gologrammy-bystro-sobirayut-obekty-iz-chastic-i-kletok/",
+            "urlToImage": "https://images.techinsider.ru/upload/img_cache/b5c/b5c86d8fff82be5230e3dc591bfbfc56_ce_932x621x75x0_cropped_932x488.png",
+            "publishedAt": "2023-02-14T05:32:00Z",
+            "content": "3D-. -,    ,   ,     3D-,    . -,        ,  ,   ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Samsung пока не хочет наделять свои смартфоны спутниковой связью — технология недостаточно развита",
+            "description": "Одним из главных нововведений iPhone 14 стало появление поддержки спутниковой связи, пусть и доступна она только для вызова экстренных служб при отсутствии сотовая связь. Производитель мобильных процессоров Qualcomm обещал интегрировать обеспечить с помощью с…",
+            "url": "https://3dnews.ru/1081300/samsung-poka-ne-planiruet-vnedryat-poddergku-sputnikovoy-svyazi-v-svoi-smartfoni",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/02/02/1081300/161.jpg",
+            "publishedAt": "2023-02-02T16:44:00Z",
+            "content": "iPhone 14 , . Qualcomm Android-. Samsung , .\r\nSamsung Galaxy S23. . Samsung. Samsung (TM Roh) . , , , .\r\n« , , , , Samsung Galaxy, , », — .\r\n , , . Samsung , , 5G, , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Учёные прокачали оконные стёкла — новая технология сэкономит до 50 % на отоплении, охлаждении и освещении",
+            "description": "Регулируемая электроникой прозрачность окон далеко не новость. Меняющие прозрачность электрохромные иллюминаторы, например, установлены на авиалайнере Boeing 787 Dreamliner. Новое «умное» стекло, разработанное учёными из Университета Торонто, может менять не …",
+            "url": "https://3dnews.ru/1081346/uchyonie-prokachali-okonnie-styokla-novaya-tehnologiya-sekonomit-do-50-na-otoplenii-ohlagdenii-i-osveshchenii",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/02/03/1081346/window.jpg",
+            "publishedAt": "2023-02-03T09:33:00Z",
+            "content": ". , , Boeing 787 Dreamliner. «» , , , . 50 % , .\r\n: Raphael Kay, Adrian So\r\n, . , . . . , . , .\r\n . , — . () , .\r\n, , 25 %, , 50 %. , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Технология DirectStorage делает старые SSD с PCIe 3.0 почти такими же быстрыми в играх, как SSD PCIe 5.0",
+            "description": "Фэнтезийный ролевой экшен с открытым миром Forspoken от Square Enix стал первой игрой, получившей поддержку технологии Microsoft DirectStorage, которая значительно ускоряет загрузку игровых уровней при использовании твердотельных накопителей. YouTube-канал Co…",
+            "url": "https://3dnews.ru/1081362/directstorage-forspoken-ssd",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/02/03/1081362/WCCFdirectstorage2.jpg",
+            "publishedAt": "2023-02-03T13:54:00Z",
+            "content": "Forspoken Square Enix , Microsoft DirectStorage, . YouTube- Compusemble SSD DirectStorage 1.1 — .\r\n: Microsoft\r\n, (CPU), , . DirectStorage , CPU .\r\n Microsoft DirectStorage 1.1 SSD, . Adata XPG SX820… [+306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphones.ru"
+            },
+            "author": "Артём Баусов",
+            "title": "Горизонт, производства Белоруссии и рекламы от Лукашенко, показала прозрачный телевизор. Это технология послезавтрашнего дня",
+            "description": "О сроках появления пока не сообщается.",
+            "url": "https://www.iphones.ru/iNotes/gorizont-proizvodstva-belorussii-i-reklamy-ot-lukashenko-pokazala-prozrachnyy-televizor-eto-tehnologiya-poslezavtrashnego-dnya-01-21-2023",
+            "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F01%2F03DCA068-74DD-4D2B-9BBC-E08F9CB0C2C5.jpeg",
+            "publishedAt": "2023-01-21T06:51:23Z",
+            "content": "« »., , , . , . 80 . , . . . , , . , . - . -, , , , .\r\n, 80% . []"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "В России набирает популярность озвучивание аудиокниг с помощью ИИ",
+            "description": "По сообщениям сетевых источников, российские книжные сервисы и издательства активно используют алгоритмы на базе искусственного интеллекта для озвучивания аудиокниг. Предполагается, что такие алгоритмы позволят существенно ускорить и удешевить производство ко…",
+            "url": "https://3dnews.ru/1080720/v-rossii-razvivayutsya-tehnologii-ozvuchivaniya-audioknig-s-pomoshchyu-iialgoritmov",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/01/23/1080720/121.jpg",
+            "publishedAt": "2023-01-23T11:05:00Z",
+            "content": ", . , . .\r\n: 4system / Pixabay\r\n, «» 10 . , MTS AI. 600 . Audiogram, , . , , .\r\n «» ( «», MyBook, LiveLib .) , . « 2020 , 2022 . SpeechKit, «», — «» .\r\n«», 2022 SpeechKit 100 . . «» 6 . , «» , - 3 . … [+41 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "GM запатентовала технологию самоочистки сенсорных экранов с помощью ультрафиолета — отпечатки пальцев за ночь исчезнут сами",
+            "description": "Отпечатки пальцев и следы пота и жира на сенсорных экранах остаются неприятным моментом использования электроники. Специальные покрытия могут сгладить этот момент, но до конца не устраняют. В компании General Motors придумали, как бороться с этой напастью не …",
+            "url": "https://3dnews.ru/1082131/general-motors-poluchila-patent-na-tehnologiyu-samoochishcheniya-sensornih-ekranov-otpechatki-paltsev-za-noch-ischeznut-sami",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/02/17/1082131/iphone.jpg",
+            "publishedAt": "2023-02-17T08:30:00Z",
+            "content": ". , . General Motors , . , , .\r\n: Pixabay\r\n() , . , . GM , .\r\n , , , - RGB- . , , , .\r\n-, , . — . . , . , , , .\r\n . - , . , . GM . ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerra.ru"
+            },
+            "author": "Компьютерра",
+            "title": "Mercedes стала первой компанией с автопилотом третьего уровня, сертифицированным в США",
+            "description": "Автопроизводитель подтвердил, что автоматизированная система помощи Drive Pilot ADAS получила официальный сертификат автономного вождения третьего уровня. На этом уровне водителю необязательно держать руки на руле, однако все равно нужно следить за дорогой. Б…",
+            "url": "https://www.computerra.ru/286078/286078/",
+            "urlToImage": "https://www.computerra.ru/wp-content/uploads/2023/01/Kartochki-na-sajt-27-1.png",
+            "publishedAt": "2023-01-30T20:31:06Z",
+            "content": ", Drive Pilot ADAS . , .\r\n : , LiDAR, . Mercedes , Tesla .\r\n . , , .\r\n Mercedes . .\r\n, Drive Pilot S- 2024 EQS Sedan."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Новая статья: HUAWEI FreeBuds 5i: прогресс не всегда сказывается на цене",
+            "description": "HUAWEI FreeBuds 5i едва ли могут предложить что-то прорывное по сравнению с предшественником, но пространство для прогресса есть всегда: добавлена поддержка Bluetooth-профиля LDAC для передачи звука высокого разрешения, улучшена технология шумоподавления, изм…",
+            "url": "https://3dnews.ru/1081533/novaya-statyahuawei-freebuds-5i-progress-ne-vsegda-skazivaetsya-na-tsene",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/02/07/1081533/freebuds_5i.jpg",
+            "publishedAt": "2023-02-07T13:00:01Z",
+            "content": "HUAWEI FreeBuds 5i - , : Bluetooth- LDAC , , . … !\r\nHUAWEI FreeBuds 5i , 10- , Bluetooth 5.2, AAC, SBC LDAC. , IP54 – .\r\n HUAWEI FreeBuds 5i ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "mpak@ixbt.com (MPAK)",
+            "title": "Быстрые дорогие SSD для геймеров станут бессмысленными? Технология DirectStorage уравнивает накопители трёх поколений",
+            "description": "Технология DirectStorage, похоже, сделает бессмысленной покупку дорогих современных SSD для игрового ПК в обозримом будущем. Тесты трёх накопителей разных поколений показали, что разница между ними в таком режиме становится не особо существенной.  \r\n Тестиров…",
+            "url": "https://www.ixbt.com/news/2023/02/06/bystrye-dorogie-ssd-dlja-gejmerov-stanut-bessmyslennymi-tehnologija-directstorage-uravnivaet-nakopiteli-trjoh-pokolenij.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/1/maxresdefault_large.jpg",
+            "publishedAt": "2023-02-06T09:33:00Z",
+            "content": "DirectStorage, , SSD . , . \r\n Forspoken, DirectStorage. Compusemble : Adata XPG SX8200 Pro (PCIe 3.0), Samsung 990 Pro (PCIe 4.0) Phison E26 (PCIe 5.0). \r\n , SSD . , SSD, . , .  \r\n Adata 1 80 , Samsu… [+41 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Servernews.ru"
+            },
+            "author": null,
+            "title": "Intel решила прекратить поддержку технологии VROC, но затем резко передумала",
+            "description": "Корпорация Intel, по сообщению ресурса ServeTheHome, отменила собственное решение о прекращении поддержки технологии VROC. Документ, извещающий об изменениях в продуктовом семействе (Product Change Notification, PCN), был обнародован 6 января 2023 года и удал…",
+            "url": "https://servernews.ru/1080491",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/01/18/1080491/sm.vroc_1.800.png",
+            "publishedAt": "2023-01-18T16:22:00Z",
+            "content": "Intel, ServeTheHome, VROC. , (Product Change Notification, PCN), 6 2023 11 .\r\nIntel VROC, Virtual RAID on CPU, RAID- NVMe SSD, CPU PCIe. HBA/RAID-, VROC , . Skylake-SP/Skylake-X. PCN- 119406-00 , VRO… [+82 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnews.ru"
+            },
+            "author": null,
+            "title": "билайн поможет бизнесу вернуть клиентов с помощью динамического ретаргетинга",
+            "description": "билайн бизнес реализовал динамический ремаркетинг, который может помочь вернуть пользователей на сайт. Технология...",
+            "url": "https://www.cnews.ru/news/line/2023-02-09_bilajn_pomozhet_biznesu_vernut",
+            "urlToImage": "https://www.cnews.ru/img/design2008/logocnews_f.png",
+            "publishedAt": "2023-02-13T07:00:00Z",
+            "content": ", . , . .\r\n -. , , , , . - . , , , , , .\r\n . .\r\n. Beeline.ru: LatgBzsuN"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hi-news.ru"
+            },
+            "author": "Андрей Жуков",
+            "title": "Новая технология может обеспечить Землю безграничным количеством пресной воды",
+            "description": "Ученые нашли способ как добывать большое количество пресной воды с минимальными затратами. Технология будет особенно эффективна в условиях глобального потепления климата. Фактически она подразумевает использование воды, которую опресняет сама природа.",
+            "url": "https://hi-news.ru/eto-interesno/novaya-texnologiya-mozhet-obespechit-zemlyu-bezgranichnym-kolichestvom-presnoj-vody.html",
+            "urlToImage": "https://hi-news.ru/wp-content/uploads/2023/01/Pitjevaja_voda-500x263.jpg",
+            "publishedAt": "2023-01-20T17:00:32Z",
+            "content": ", . . 2050 . , , , , . . . . , , . , , , ? , , .\r\n , \r\n, . , , 3%. , .\r\n, . , . , . , , . , .\r\n, , , ( ), . , . , . .\r\n , . , , . . . , , .\r\n, Scientific Reports, . , , . , , .\r\n210 100 , . , , , 500… [+54 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ferra.ru"
+            },
+            "author": "Ксения Мурашева",
+            "title": "Браузер Chrome внедрил технологию NVIDIA RTX Video Super Resolution для улучшения качества видео",
+            "description": "В Google Chrome 110 добавлена ​​поддержка NVIDIA RTX Video Super Resolution. Эта технология повышает качество видео до 4K.",
+            "url": "https://www.ferra.ru/news/computers/brauzer-chrome-vnedril-tekhnologiyu-nvidia-rtx-video-super-resolution-dlya-uluchsheniya-kachestva-video-05-02-2023.htm",
+            "urlToImage": "https://www.ferra.ru/imgs/2023/02/05/12/5782478/6a6c19084e3704adc33e2f04065560725346330c.jpg",
+            "publishedAt": "2023-02-05T12:03:36Z",
+            "content": "Google Chrome (110.0.5481.77), 7 .\r\n , Chrome 110 , . , , RTX VSR , NVIDIA. ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ferra.ru"
+            },
+            "author": "Ксения Мурашева",
+            "title": "Apple уже запатентовала подэкранную камеру для iPhone",
+            "description": "Apple выдали патент, в котором описывается технология размещения датчика Face ID под экраном. Она позволит встраивать под дисплей и камеры.",
+            "url": "https://www.ferra.ru/news/mobile/apple-uzhe-zapatentovala-podekrannuyu-kameru-dlya-iphone-07-02-2023.htm",
+            "urlToImage": "https://www.ferra.ru/imgs/2023/02/07/16/5785899/e061ff7e703f3cf2ce0dfca184d0d630f4df0c59.jpg",
+            "publishedAt": "2023-02-07T16:27:37Z",
+            "content": ", Dynamic Island. , , . Touch ID, , , .\r\n , . ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "mpak@ixbt.com (MPAK)",
+            "title": "Очередная «магическая» технология Nvidia для повышения разрешения, но теперь не в играх. RTX VSR уже поддерживается браузером Chrome",
+            "description": "Ещё одна технология Nvidia, связанная с разрешением, вскоре может стать доступной многим, но на сей раз не в играх. В Chrome 110 (110.0.5481.77) уже внедрена поддержка Nvidia RTX VSR (Video Super Resolution), которая, как и DLSS в играх, повышает разрешение п…",
+            "url": "https://www.ixbt.com/news/2023/02/05/nvidia-rtx-vsr-chrome.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/0/NVIDIA-RTX-VIDEO-CHROME-1536x692_large.jpg",
+            "publishedAt": "2023-02-05T12:30:00Z",
+            "content": "Nvidia, , , . Chrome 110 (110.0.5481.77) Nvidia RTX VSR (Video Super Resolution), , DLSS , . \r\n . Nvidia YouTube, . , Netflix . \r\n , RTX VSR Full HD 4K UHD. CPU .  \r\n , Chrome, , Nvidia. , RTX VSR Ed… [+25 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ferra.ru"
+            },
+            "author": "Андрей Кадуков",
+            "title": "Google внедрит в Android и Chrome новую технологию для слежки за пользователями",
+            "description": "Компания Google тестирует очередную систему конфиденциальности пользователей под названием Privacy Sandbox. По заявлениям вендора, технология должна обеспечить большую, чем сейчас, конфиденциальность пользователей Android и браузера Chrome.",
+            "url": "https://www.ferra.ru/news/apps/google-vnedrit-v-android-i-chrome-novuyu-tekhnologiyu-dlya-slezhki-za-polzovatelyami-15-02-2023.htm",
+            "urlToImage": "https://www.ferra.ru/imgs/2023/02/15/14/5796779/51f499c8f46e6a07662abb629049a7c919a3ff03.jpg",
+            "publishedAt": "2023-02-15T14:02:09Z",
+            "content": "Google Privacy Sandbox. , , , Android Chrome."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Fantoci",
+            "title": "Microsoft и Adobe объявили, что браузер Edge будет использовать Acrobat для открытия PDF-файлов",
+            "description": "Технология Adobe Acrobat PDF станет доступна пользователям Windows 10 и 11 с марта 2023 года.",
+            "url": "https://overclockers.ru/blog/Fantoci/show/85551/microsoft-i-adobe-obyavili-chto-brauzer-edge-budet-ispolzovat-acrobat-dlya-otkrytiya-pdf-fajlov",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/417293/357116_O.jpg",
+            "publishedAt": "2023-02-10T11:47:38Z",
+            "content": "Windows, PDF-, Microsoft Edge . Microsoft Adobe , Acrobat Edge PDF. Microsoft, , Adobe , , Acrobat .\r\n Microsoft , PDF Acrobat , , () . Acrobat Edge , . , Acrobat.\r\n Adobe. Acrobat , 1,4 Microsoft . … [+261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Niko4123",
+            "title": "AMD разблокирует поддержку разгона процессоров Ryzen 7 7800X3D и Ryzen 9 7900X3D/7950X3D",
+            "description": "Технология Precision Boost Overdrive повышает предел мощности обеспечивая более высокий и продолжительный разгон на нескольких ядрах.",
+            "url": "https://overclockers.ru/blog/New_Intel_Raptor_ES/show/84043/amd-razblokiruet-podderzhku-razgona-processorov-ryzen-7-7800x3d-i-ryzen-9-7900x3d-7950x3d",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/416880/352166_O.jpg",
+            "publishedAt": "2023-01-23T22:17:37Z",
+            "content": "AMD Ryzen 7000X3D 64 3D V-Cache, . Ryzen 7 7800X3D, Ryzen 9 7900X3D 7950X3D 8, 12 16 . , , V-Cache TDP.\r\nRyzen 7 7800X3D 5 - 104 . Ryzen 9 7900X3D 4,4 5,6 . 140 -, 128 - L3. 7950X3D 4 - L1/L2 5,7 .\r\n… [+82 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Madarator",
+            "title": "Google решила создать свой \"локатор тегов\" - аналог яблочных технологий \"AirTag\" и \"Tile\"",
+            "description": "Новая технология от Гугла поможет найти потерявшиеся или украденные электронные гаджеты",
+            "url": "https://overclockers.ru/blog/ProKino/show/83902/google-reshila-sozdat-svoj-lokator-tegov-analog-yablochnyh-tehnologij-airtag-i-tile",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/415476/351715_O.jpg",
+            "publishedAt": "2023-01-21T13:36:26Z",
+            "content": ", \"\" \" \". - \"\" , - Apple. , AirTag Tile.\r\n    , Android, \"Grogu\". , Bluetooth-, \"Ultra Wide Band\". , . +- Pixel 6 Pro 7 Pro.\r\n: m24.ru\r\n    , , Esper, API Fast Pair \" \". Android-, Bluetooth. \" \". , \"… [+27 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Fantoci",
+            "title": "Инженеры MIT изобрели вертикально расположенные микросветодиоды с самой высокой плотностью пикселей",
+            "description": "Новая технология позволит увеличить плотность пикселей на порядок (в 10 раз).",
+            "url": "https://overclockers.ru/blog/Fantoci/show/85167/inzhenery-mit-izobreli-vertikalno-raspolozhennye-mikrosvetodiody-s-samoj-vysokoj-plotnostju-pikselej",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/417293/355760_O.jpg",
+            "publishedAt": "2023-02-06T15:43:05Z",
+            "content": ", , : , . , ocae coeo eopeecoo peea ooc. Cey ao oe ca exoo , Maccaycecoo exooecoo cya. coy o poecc ooe ypaox epa, coa ce c pac, c ee ce, epao . o oe ye ooc cee a opo, .\r\n (OLED), . . , , , . , , micr… [+389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Блогер",
+            "title": "Исследователи улучшили систему, которая «видит» людей сквозь стены с помощью Wi-Fi",
+            "description": "В системе применяется технология визуализации, разработанная при участии инженеров искусственного интеллекта Facebook",
+            "url": "https://overclockers.ru/blog/Scorpion81/show/83714/issledovateli-uluchshili-sistemu-kotoraya-vidit-ljudej-skvoz-steny-s-pomoschju-wi-fi",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/213212/351248_O.jpg",
+            "publishedAt": "2023-01-19T10:52:37Z",
+            "content": ", , . , , .\r\n- «» Wi-Fi. 3D .\r\nDensePose, Facebook. DensePose , 2D- . DensePose, - , Wi-Fi . DensePose .\r\n . .\r\n. , . arXiv . Wi-Fi . , , , , Techspot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "AnLesha",
+            "title": "Ультразвуковой пластырь может сканировать сердце в реальном времени прямо на ходу",
+            "description": "Технология может помочь спортсменам, пожилым людям и пациентам с сердечными заболеваниями",
+            "url": "https://overclockers.ru/blog/Hardware_inc/show/84230/ultrazvukovoj-plastyr-mozhet-skanirovat-serdce-v-realnom-vremeni-pryamo-na-hodu",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/422120/352707_O.jpg",
+            "publishedAt": "2023-01-25T19:53:08Z",
+            "content": ", - . . , , . .\r\n . , . \r\n, . , . . , .\r\n . , , . , .\r\n, , . , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Moleculo",
+            "title": "Новый драйвер NVIDIA готов к Dead Space, Forspoken и DLSS 3 обновлениям трёх игр",
+            "description": "Скоро технология масштабирования с генерацией кадров заработает в Marvel’s Midnight Suns, Hitman 3 и Deliver Us Mars.",
+            "url": "https://overclockers.ru/blog/molexandr/show/84104/novyj-drajver-nvidia-gotov-k-dead-space-forspoken-i-dlss-3-obnovleniyam-treh-igr",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/151718/278149_O.jpg",
+            "publishedAt": "2023-01-24T14:44:13Z",
+            "content": "NVIDIA WHQL GeForce Game Ready 528.24, Dead Space Forspoken, . DLSS 3 , Marvels Midnight Suns, Hitman 3 Deliver Us Mars, . GeForce RTX 40 .\r\n Adobe, 528.02 Premiere Pro, Photoshop Lightroom, Photosho… [+108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ferra.ru"
+            },
+            "author": "Максим Многословный",
+            "title": "Как очки дополненной реальности помогут американским солдатам решать сложные задачи",
+            "description": "DARPA разрабатывает новую систему, которая поможет военнослужащим выполнять сложные задачи. Технология Perceptually-enabled Task Guidance (PTG) использует датчики, чтобы видеть и слышать все, что видит и слышит пользователь, направляя его с помощью инструкций…",
+            "url": "https://www.ferra.ru/news/techlife/kak-ochki-dopolnennoi-realnosti-pomogut-amerikanskim-soldatam-reshat-slozhnye-zadachi-26-01-2023.htm",
+            "urlToImage": "https://www.ferra.ru/imgs/2023/01/26/11/5768861/a492ff688990d9e663755337c3505d64f77d0d21.png",
+            "publishedAt": "2023-01-26T11:18:13Z",
+            "content": "PTG AR . , , .\r\nDARPA : , .\r\n, DARPA . -. , - , . , , , , . , , , . , PTG , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnews.ru"
+            },
+            "author": null,
+            "title": "Найден способ создания сверхдешевых квантовых компьютеров для работы при комнатной температуре",
+            "description": "Технология, разработанная инженерами компании Oxford Ionics, позволит создавать работоспособные процессоры\nдля квантовых вычислений, которые не потребуют сверхнизких температур для своей\nработы. Если работоспособность технологии подтвердится, это будет гранди…",
+            "url": "https://www.cnews.ru/news/top/2023-01-19_otkryt_sposob_sozdaniya_sverhdeshevyh",
+            "urlToImage": "https://filearchive.cnews.ru/img/news/2023/01/19/kvant_600.jpg",
+            "publishedAt": "2023-01-20T06:50:00Z",
+            "content": ", Oxford Ionics, \r\n , \r\n. , \r\n .\r\nOxford Ionics \r\n . \r\n, , , \r\n() .\r\n-, IBM Google, , \r\n . \r\n , \r\n , (-273 \r\n). - , , , .\r\n EQC (Electronic Qubit Control ),\r\n .\r\n The Next Web, ,\r\n ,\r\n .\r\n. \r\n , . \r\n… [+339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "В Кабардино-Балкарии заложили 26 га виноградников по суперинтенсивной технологии за год",
+            "description": "Технология предусматривает размещение на одном гектаре свыше 3 тыс. саженцев",
+            "url": "https://tass.ru/v-strane/16905803",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/v-strane/16905803",
+            "publishedAt": "2023-01-27T16:35:41Z",
+            "content": ", 27 . //. 26 - () 2022 , 3 . . - .\r\n\" - 2022 26 , 3 . . 19,6 , - 18,6 \", - .\r\n 10 - 1 . . , . () .\r\n\" -, 522 , - 500 , 40 - . 99% . 20 . \", - .\r\n - , . , . \" . \", - ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fishki.net"
+            },
+            "author": "https://fishki.net/profile/1674128",
+            "title": "Невозможные стаканы, существующие вопреки законам науки",
+            "description": "Некоторые русские мастера не только опережали своё время, но и ухитрялись делать это как бы между делом, просто, легко и изящно – Самые лучшие и интересные новости по теме: Александр Вершинин, Загадка, Технология на развлекательном портале Fishki.net",
+            "url": "https://fishki.net/4353281-nevozmozhnye-stakany-suwestvujuwie-vopreki-zakonam-nauki.html",
+            "urlToImage": "https://cdn.fishki.net/upload/post/2023/02/04/4353281/3628e13a07f57116fdc88083fde92643.jpg",
+            "publishedAt": "2023-02-04T16:35:35Z",
+            "content": ", , . . - . , , . .\r\n , . . . . - , - , 1764 .\r\n, , , . , . . : (1765-1828 ) . , .\r\n .  , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kommersant.ru"
+            },
+            "author": null,
+            "title": "Столтенберг анонсировал создание единой сети коммерческих и государственных спутников НАТО",
+            "description": "Генеральный секретарь НАТО Йенс Столтенберг анонсировал создание общей для государств-участников альянса сети национальных и коммерческих спутников. Технология призвана улучшить возможности стран-участниц в части разведки и наблюдения.",
+            "url": "https://www.kommersant.ru/doc/5825591",
+            "urlToImage": "https://iv.kommersant.ru/SocialPics/5825591_26_2330935_907011325",
+            "publishedAt": "2023-02-13T17:46:05Z",
+            "content": "- . - .\r\n« , . (,— \"\") , »,— - - , . \r\n - , . , .\r\n, « ». - .\r\n Starlink: CNN, . SpaceX Starlink , « , »."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Fantoci",
+            "title": "Технология охлаждения AirJet от Frore позволит ноутбукам работать быстрее, холоднее и тише",
+            "description": "Первые устройства с охлаждением AirJet могут появиться уже в этом году.",
+            "url": "https://overclockers.ru/blog/Fantoci/show/83832/tehnologiya-ohlazhdeniya-airjet-ot-frore-pozvolit-noutbukam-rabotat-bystree-holodnee-i-tishe",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/417293/351554_O.png",
+            "publishedAt": "2023-01-20T17:06:45Z",
+            "content": "Capa Frore Systems oxae AirJet oyyo, , e eop , a ee eca .\r\n Frore Systems , , , . AirJet .\r\n, AirJet « », . , «poee epa, oope ppy », epe eoe oepc epxe epe eoe oepc « » .\r\n , , , epe eoe oepc.\r\n AirJe… [+302 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "dexter@ixbt.com (Dexter)",
+            "title": "Как минимум в одном Galaxy S23 точно уступают iPhone 14 и Huawei Mate 50. Новейшие флагманы Samsung не поддерживают спутниковую связь",
+            "description": "По слухам, телефоны Samsung линейки Galaxy S23 должны были стать первыми в ассортименте компании с поддержкой спутниковой связи. Несколько часов назад Galaxy S23, S23 Plus и S23 Ultra представили официально – о поддержке спутниковой связи н было сказано ни сл…",
+            "url": "https://www.ixbt.com/news/2023/02/02/galaxy-s23-iphone-14-huawei-mate-50-samsung.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/4/gsmarena_001%20(1)_0_large.jpg",
+            "publishedAt": "2023-02-02T01:46:00Z",
+            "content": ", Samsung Galaxy S23 . Galaxy S23, S23 Plus S23 Ultra – . Samsung (TM Roh).\r\n -, . « , , , Samsung Galaxy, , », – .\r\n , Samsung, , Apple, Huawei . , , Huawei Mate X3 – ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itc.ua"
+            },
+            "author": "Андрій Русанов",
+            "title": "В 10 раз больше света: применение диоксида титана в лазерных светодиодах повышает интенсивность излучения – исследование Киотского университета",
+            "description": "В недавнем исследовании было обнаружено, что оксиды титана значительно повышают эффективность и фотолюминесценцию светодиодов. Господство белых светодиодов в качестве основного источника света может скоро закончиться с появлением новой альтернативы. Фотонный …",
+            "url": "https://itc.ua/news/v-10-raz-bolshe-sveta-prymenenye-dyoksyda-tytana-v-lazernyh-svetodyodah-povyshaet-yntensyvnost-yzluchenyya-yssledovanye-kyotskogo-unyversyteta/",
+            "urlToImage": null,
+            "publishedAt": "2023-02-01T15:19:46Z",
+            "content": ", . .\r\n, , . .\r\n (LD), . LD , , .\r\n , , . . , . , , .\r\n , .\r\n«, - », .\r\n, , .\r\n« , , , . , , , ».\r\n«Photoluminescence engineering with nanoantenna phosphors» , , , 21 2022 Journal of Materials Chemis… [+26 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Fantoci",
+            "title": "Новая технология Light Field Lab превращает 3D-персонажей в парящие голограммы",
+            "description": "Долгосрочная цель компании — выпустить все виды голографических дисплеев как для бизнеса, так и для потребителей.",
+            "url": "https://overclockers.ru/blog/Fantoci/show/85470/novaya-tehnologiya-light-field-lab-prevraschaet-3d-personazhej-v-paryaschie-gologrammy",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/417293/356816_O.jpg",
+            "publishedAt": "2023-02-09T14:12:29Z",
+            "content": "Aether Light Field Lab, , 3D-. 2021 Light Field Lab SolidLight, , , . , 50 . Light Field Lab : , . .\r\nSolidLight 28- 2,5 . ( : 4K 8,2 .) , , , . 100 200 . Aether, SolidLight, 60 , .\r\n- SolidLight Cha… [+211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "Fantoci",
+            "title": "Китайские учёные создали притягивающий луч с использованием yникaльныx cвoйcтв гpaфeнa",
+            "description": "Новая технология увеличила силу притяжения света в три раза, чем у солнечного паруса, использующего импульс фотонов для создания небольшой толкающей силы.",
+            "url": "https://overclockers.ru/blog/Fantoci/show/84733/kitajskie-uchenye-sozdali-prityagivajuschij-luch-s-ispolzovaniem-ynikalnyx-cvojctv-gpafena",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/417293/354227_O.jpg",
+            "publishedAt": "2023-02-01T21:36:51Z",
+            "content": ", coa pa y, coco epeea oe a apoypoe. Optics Express , o p cooa aepa ooc 90 B pay cy ooo pooa. oao poca. ycoe cea opaa ooo, ey paea . c, oyo aep a ey paea. , aepoy yae. \r\ncaoa . Oece e coee apyca ae c… [+453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "В Омске с 2024 года начнут выпускать бутилированный напиток из иван-чая",
+            "description": "Разработкой продукта занимаются сотрудники кафедры \"Биотехнология, технология общественного питания и товароведение\" Омского государственного технического университета",
+            "url": "https://tass.ru/obschestvo/17041157",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/obschestvo/17041157",
+            "publishedAt": "2023-02-14T03:26:36Z",
+            "content": ", 14 . //. 2024 - () . , , , - .\r\n\" \", \" - . 2024 . , \", - -.\r\n , - 70 , , , . , . , , . : , , .\r\n- . XX . , . , , - ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Naked-science.ru"
+            },
+            "author": "ЮФУ",
+            "title": "Разработана технология коррекции ошибок для будущих квантовых компьютеров",
+            "description": "Ученые ИКТИБ ЮФУ создали корректирующий автоморфизм повторяющегося кода для квантовой коррекции ошибок.",
+            "url": "https://naked-science.ru/article/column/razrabotana-tehnologiya-korrektsii-oshibok",
+            "urlToImage": "https://naked-science.ru/wp-content/uploads/2023/02/7777ma18-quantum4quantumtopper.jpg",
+            "publishedAt": "2023-02-13T09:43:25Z",
+            "content": ". . , . . . . , .\r\n , . , . , . .. () « ()» .\r\n , - . - . . , . , .\r\n« , . », , .\r\n , , , , . , . , , Software Engineering Application in Systems Design."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securitylab.ru"
+            },
+            "author": "Alexander Antipov",
+            "title": "Канадские студенты разработали ML-модель для выявления сигналов из космоса",
+            "description": "Технология поможет учёным найти ранее необнаруженные космические сигналы.",
+            "url": "https://www.securitylab.ru/news/536193.php",
+            "urlToImage": "https://www.securitylab.ru/upload/iblock/b73/e0n086lgzpg8ka4wjvjr1q19qd2w435p.jpg",
+            "publishedAt": "2023-01-31T07:22:33Z",
+            "content": ".\r\n , , .\r\n(SETI) . , - , , .\r\nSETI , ML- . , , . .\r\n, 3 - , 820 115 . . ML-, TensorFlow Python Keras, 3 . . 20 515 , 100 , .\r\n8 , . , SETI , .\r\nML- SETI :\r\n«SETI «», . (ETI), , », - ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itc.ua"
+            },
+            "author": "Катерина Даньшина",
+            "title": "Создатели ChatGPT предложили бесплатный инструмент для обнаружения текста, написанного ИИ",
+            "description": "OpenAI, компания, создавшая DALL-E и ChatGPT, представила новый классификатор, который поможет отличить человеческий текст от текста, написанного искусственным интеллектом. Модель училась на парах текстов одной темы, которые писал человек и ИИ. В пресс-релизе…",
+            "url": "https://itc.ua/news/sozdately-chatgpt-predlozhyly-besplatnyj-ynstrument-dlya-obnaruzhenyya-teksta-napysannogo-yy/",
+            "urlToImage": "https://itc.ua/wp-content/uploads/2022/09/Depositphotos_192739794_L.jpg",
+            "publishedAt": "2023-02-01T12:32:03Z",
+            "content": "OpenAI, , DALL-EChatGPT, , , .\r\n, . - , « » « ».\r\n , OpenAI. , , . : , , , .\r\nOpenAI , :\r\n<ul><li> 1000 150-250 ;</li><li> , ;</li><li>, , , «» ;</li><li> , , , .</li></ul> The Verge « ». (« ») CNET … [+202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "В браузере Google Chrome 110 появилась поддержка NVIDIA RTX Video Super Resolution",
+            "description": "Технологии апскейлинга NVIDIA вскоре перейдут на новый уровень и будут использоваться для повышения качества потокового онлайн-видео благодаря возможностям графики RTX. Компания объявила, что технология RTX Video Super Resolution (VSR) откроет возможности ИИ-…",
+            "url": "https://3dnews.ru/1081425/v-brauzere-google-chrome-110-poyavilas-poddergka-nvidia-rtx-video-super-resolution",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/02/05/1081425/88.jpg",
+            "publishedAt": "2023-02-05T08:44:00Z",
+            "content": "NVIDIA - RTX. , RTX Video Super Resolution (VSR) - 4K - Chrome Edge.\r\n: VideoCardz\r\nChrome 110.0.5481.77, . 7 . , Chrome 110 , . , RTX VSR , NVIDIA.\r\n NVIDIA , RTX VSR YouTube, , , . - , RTX VSR GeFo… [+94 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hi-news.ru"
+            },
+            "author": "Андрей Жуков",
+            "title": "Ученые пересадили мозг человека крысе — как это поможет в лечении смертельных болезней?",
+            "description": "Ученые пересадили ткани человеческого мозга в поврежденный мозг крысы, чтобы его восстановить. Первые результаты оказались успешными. Разработанная технология в будущем позволит лечить серьезные заболевания, многие из которых сейчас считаются неизлечимыми.",
+            "url": "https://hi-news.ru/eto-interesno/uchenye-peresadili-mozg-cheloveka-kryse-kak-eto-pomozhet-v-lechenii-smertelnyx-boleznej.html",
+            "urlToImage": "https://hi-news.ru/wp-content/uploads/2023/02/Krisa-500x263.jpg",
+            "publishedAt": "2023-02-06T17:00:10Z",
+            "content": ", . , . — , . , , . , .\r\n- \r\n , , - , . . , , , .\r\n 80 , . — « ». , , .\r\n , — - .\r\n, , . , .\r\n, , . , , .\r\n, , , , , . , , .\r\n, , , . , , .\r\n , Cell Stem Cell. . , . , . .\r\n, . ? , — - . , .\r\n, . . ,… [+34 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "В США начали печатать полноценные литиевые аккумуляторы любой формы на 3D-принтере",
+            "description": "Молодая американская компания Sakuu сообщила об успешной 3D-печати полностью рабочих литиевых аккумуляторов произвольной формы. Работы успешно и последовательно выполняются с декабря 2022 года. Технология доступна как для лицензирования для изготовления батар…",
+            "url": "https://3dnews.ru/1082095/v-ssha-zarabotal-perviy-v-mire-3dprinter-dlya-pechati-polnostyu-rabochih-litievih-akkumulyatorov-lyuboy-formi",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/02/16/1082095/akk.jpg",
+            "publishedAt": "2023-02-16T16:42:00Z",
+            "content": "Sakuu 3D- . 2022 . , 3D- . .\r\n3D- . : Sakuu\r\nSakuu . , . , , , .\r\n Sakuu Kavian. . . , .\r\n, , . , , , .\r\n Sakuu, 800–1000 ·/ . Kavian , . . , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "В тестировании платежного стикера Сбера примет участие 100 тыс. человек",
+            "description": "Новая технология дает возможность совершать оплату в одно касание",
+            "url": "https://tass.ru/novosti-partnerov/16859547",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/novosti-partnerov/16859547",
+            "publishedAt": "2023-01-23T07:52:47Z",
+            "content": ", 23 . .   .\r\n .   , . QR-, .\r\n : \" , , . , , . , 100 . , . , ,   , - \".\r\n . , ,   ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "Резидент Арктической зоны РФ начал утилизацию покрышек в Воркуте",
+            "description": "Предприятие \"Унивекс-технология\" занимается обезвреживанием покрышек и других видов отходов согласно полученной лицензии на установке Hurikan-150-У1",
+            "url": "https://tass.ru/ekonomika/16944471",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/ekonomika/16944471",
+            "publishedAt": "2023-02-02T08:51:19Z",
+            "content": ", 2 . //. . , , 1,7 , - .\r\n\" \"-\" 2022 - - Hurikan-150-1. I-V . . 9 , 1,7 \", - - - .\r\n , , . ( ) . - 350 .\r\n , \"\". \"\", 2023 .\r\n , , - . 26 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Apple позволит создавать приложения дополненной реальности с помощью Siri",
+            "description": "Apple работает над инструментом, который позволит создавать приложения для гарнитуры смешанной реальности при помощи голосового ассистента Siri — их впоследствии можно будет публиковать в App Store. Об этом сообщило издание The Information. Лежащая в основе э…",
+            "url": "https://3dnews.ru/1081016/apple-pozvolit-sozdavat-prilogeniya-dopolnennoy-realnosti-golosovimi-komandami-siri",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/01/28/1081016/ar-vr.jpg",
+            "publishedAt": "2023-01-28T09:15:00Z",
+            "content": "Apple , Siri — App Store. The Information. Apple 2017 Fabric Software.\r\n: Riki32 / pixabay.com\r\n, , , — , 3D- . Apple Minecraft Roblox, .\r\n . , . — iPhone App Store.\r\n, Apple , — , . Apple ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Microsoft DirectStorage всё же не снижает FPS в играх — прежние сообщения связаны с ошибкой тестирования",
+            "description": "Недавно как и многие профильные сайты мы писали, что технология Microsoft DirectStorage снижает частоту кадров в играх. Эта информация была основана на тесте видеокарты NVIDIA GeForce RTX 4090 в игре Forspoken с DirectStorage, опубликованном немецким YouTube-…",
+            "url": "https://3dnews.ru/1080999/tehnologiya-microsoft-directstorage-radikalno-uskoryaet-zagruzku-igr-i-sovershenno-ne-vliyaet-na-proizvoditelnost",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/01/27/1080999/windows11gaming.jpg",
+            "publishedAt": "2023-01-27T18:11:00Z",
+            "content": ", Microsoft DirectStorage . NVIDIA GeForce RTX 4090 Forspoken DirectStorage, YouTube- PC Games Hardware. , DirectStorage . . \r\n: Microsoft\r\n, PC Games Hardware CapFrameX, Intel PresentMon. Forspoken … [+365 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Meduza"
+            },
+            "author": null,
+            "title": "В воздушном пространстве США летает китайский аэростат. Пекин уверяет, что он не для разведки, а для сбора метеоданных. Пентагон не хочет сбивать аппарат: падение его обломков может быть опасным",
+            "description": "Военные США последние несколько дней отслеживают над северной частью страны аэростат, принадлежащий Китаю. Госсекретарь Энтони Блинкен из-за этого отменил визит в Пекин, намеченный на 5-6 февраля. Особый интерес вызвал даже не сам факт появления разведыватель…",
+            "url": "https://meduza.io/feature/2023/02/03/v-vozdushnom-prostranstve-ssha-letaet-kitayskiy-aerostat-pekin-uveryaet-chto-on-ne-dlya-razvedki-a-dlya-sbora-meteodannyh",
+            "urlToImage": "https://meduza.io/imgly/share/1675442115/feature/2023/02/03/v-vozdushnom-prostranstve-ssha-letaet-kitayskiy-aerostat-pekin-uveryaet-chto-on-ne-dlya-razvedki-a-dlya-sbora-meteodannyh",
+            "publishedAt": "2023-02-03T16:23:19Z",
+            "content": ", . -  ,  5-6 .     ,  ,   , , ,  .   - ,   , . -  .\r\n   \r\n ,   ,    .\r\n ,      .  ,     ,  , .\r\n« ,   . ,   »,        .\r\n ,   ,   .    ,   ,             .\r\n   , , ,   , , ,   .\r\n  , , ,       ,     … [+251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "dexter@ixbt.com (Dexter)",
+            "title": "34 дюйма, 144 Гц, 3440 x 1440 пикселей за 235 долларов. Xiaomi Mi 144Hz Curved Gaming Monitor подешевел до минимума в Китае",
+            "description": "В Китае стоимость немолодого, но по-прежнему актуального игрового монитора Xiaomi Mi 144Hz Curved Gaming Monitor снизилась до минимума: на площадке JD.com приобрести его можно на эквивалент 235 долларов. Xiaomi Mi 144Hz Curved Gaming Monitor оснащен изогнутой…",
+            "url": "https://www.ixbt.com/news/2023/01/28/34-144-3440-x-1440-235-xiaomi-mi-144hz-curved-gaming-monitor.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/0/6/Se976c69a-0ad8-4d89-8d68-7e613d5e7ea8.png",
+            "publishedAt": "2023-01-28T13:07:00Z",
+            "content": ", - Xiaomi Mi 144Hz Curved Gaming Monitor : JD.com 235 .\r\nXiaomi Mi 144Hz Curved Gaming Monitor ( – 1,5 ) VA 3440 1440 144 DisplayPort. 121% sRGB 85% NTSC. 300 /.., AMD Freesync."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": null,
+            "title": "Изучаем влияние технологии Hyper-Threading на производительность в играх - большой тест",
+            "description": "Как технология Hyper-Threading влияет на производительность в играх? Сегодня это выясним на примере процессора i7 10700K с разным количеством активных ядер. Тесты как с трассировкой лучей, так и без.",
+            "url": "https://overclockers.ru/blog/Winssy/show/84131/izuchaem-vliyanie-tehnologii-hyper-threading-na-proizvoditelnost-v-igrah-bolshoj-test",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/162503/352522_O.jpg",
+            "publishedAt": "2023-01-27T05:41:45Z",
+            "content": ", . . , HT (Hyper-Threading) . \r\nHyper-Threading - . , - Simultaneous MultiThreading (SMT).     \r\n - 8/8t, 6c/6t 4c/4t (/). 8c/16t, 6c/12t 4c/8t . . , , , . , . Watch Dogs Legion. + HT .. , . \r\n- \" C… [+3372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "CNN: Google представила чат-бот на основе искусственного интеллекта Bard",
+            "description": "Глава компании Сундар Пичаи отметил, что новая технология будет доступна в \"ближайшие недели\"",
+            "url": "https://tass.ru/ekonomika/16980599",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/ekonomika/16980599",
+            "publishedAt": "2023-02-07T07:34:33Z",
+            "content": "-, 7 . //. Google  - () Bard  - ChatGPT Microsoft. CNN.\r\n\"Bard , &lt;...&gt; &lt;...&gt;. \", - , , \" \".\r\n , Google , Microsoft, $10 - ChatGPT, . , Microsoft , .\r\n Reuters , - ChatGPT . 100 , 13 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "Технологию 3D-печати огнеупорных материалов запатентовали в Москве",
+            "description": "Технология позволит предприятию изготавливать изделия любой формы и снизить затраты на производство",
+            "url": "https://tass.ru/ekonomika/17004669",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/ekonomika/17004669",
+            "publishedAt": "2023-02-09T08:15:30Z",
+            "content": ", 9 . //. - \"\" 3D- . , .\r\n\" , . , . - \"\" 3D- . , \", - .\r\n - , - () \"\" , , , , . , , , , , .\r\n\" 3D- , . , . , \", - \"\" .\r\n , 3D- . 2020 , .\r\n \"\" 2019 \"\". , - ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "В курортном Кисловодске откажутся от песка при борьбе с гололедицей из-за его вреда",
+            "description": "Эта технология помогала с гололедицей, но после оттепели весной тысячи тонн песка стекали и забивали ливневки, превращались в облака пыли, отметил глава города Евгений Моисеев",
+            "url": "https://tass.ru/v-strane/17009099",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/v-strane/17009099",
+            "publishedAt": "2023-02-09T12:44:29Z",
+            "content": ", 9 . //. . , Telegram- .\r\n\" - . . 5 . . - 5 .  \", - .\r\n , , , , , . , , . .\r\n\" . . : , 23% 77% . , , , , \", - .\r\n , . . - 90 , - 30 . ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Life.ru"
+            },
+            "author": "Анатолий Симоненко",
+            "title": "Представлен поисковик Microsoft на основе нейросети",
+            "description": "Американская корпорация Microsoft представила новые версии поисковой системы Bing, а вместе с ней и браузера Microsoft Edge. В них будет задействована нейросетевая технология, которая используется для чат-бота ChatGPT от OpenAI.Читать далее...",
+            "url": "https://life.ru/p/1557217",
+            "urlToImage": "https://static.life.ru/publications/2023/2/7/1413394414739.887-1200x.jpeg",
+            "publishedAt": "2023-02-07T22:25:11Z",
+            "content": "Microsoft Bing, Microsoft Edge. , - ChatGPT OpenAI.\r\n The Verge, Microsoft, OpenAI, Edge Bing Prometheus Model, ChatGPT. Bing , . - .\r\n The Verge, Microsoft , . , , . , Bing . , .\r\n, Microsoft , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sostav.ru"
+            },
+            "author": "Sostav.ru",
+            "title": "Сейлз-хаус «Эверест», «Гласно Медиа» и Zayads представили новый формат рекламы в подкастах",
+            "description": "Технология позволяет интегрировать предварительно созданные креативы внутри подкаста с учётом интересов и предпочтений конкретного слушателя",
+            "url": "https://www.sostav.ru/publication/everest-59008.html",
+            "urlToImage": "https://www.sostav.ru/images/news/2023/02/13/preview/59008_social.jpg?rnd=814647",
+            "publishedAt": "2023-02-13T13:00:00Z",
+            "content": "-  « »   Zayads   ,   « » — .   Sostav  .\r\n :   (pre-roll),   (mid-roll)    (post-roll).       ,   ,       . \r\n« , ,   . ,  —   », —  .\r\n, -   ,   ,   . « win-win  ,   », — .\r\n ,   «»:\r\n , ,   ,   . … [+202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "Andrey_Biryukov",
+            "title": "Технология непрерывной поставки ПО",
+            "description": "Разработка программного обеспечения давно уже стала серьезным промышленным направлением, по сложности зачастую превосходящим некоторые технологические  производства. Это в прежние времена и архитектурой, и разработкой и тестированием приложения могли занимать…",
+            "url": "https://habr.com/ru/company/otus/blog/712280/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/570/003/352/570003352937eede39cad3d2d8d69858.png",
+            "publishedAt": "2023-01-24T14:54:56Z",
+            "content": ",   . , , . : , , , . , . , . . . , . \r\n , , .\r\n-. . ( , ), . . . , , «» . , . . \r\n CI/CD\r\n , (Continuous delivery CD, CDE). , . , , . , . (Continuous Integration, CI) . , . \r\n , , . , , . , , . , CD… [+781 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ferra.ru"
+            },
+            "author": "Андрей Кадуков",
+            "title": "Сбер создал одну из лучших в мире технологий распознавания дипфейков",
+            "description": "Роспатент опубликовал результаты, согласно которым технология Сбера для распознавания дипфейков — подмены лица на фото и видео — вошла в десятку лучших.",
+            "url": "https://www.ferra.ru/news/techlife/sber-sozdal-odnu-iz-luchshikh-v-mire-tekhnologii-raspoznavaniya-dipfeikov-09-02-2023.htm",
+            "urlToImage": "https://www.ferra.ru/imgs/2023/02/09/13/5788843/2b85a3ecd65beca38e28790a206eb62996ca42fb.jpg",
+            "publishedAt": "2023-02-09T13:29:55Z",
+            "content": ", . , . , 98%. . , 2022 , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Naked-science.ru"
+            },
+            "author": "ПНИПУ",
+            "title": "Технология ученых Пермского Политеха позволит изготавливать магниевые корпуса ракет без дефектов",
+            "description": "Из всех конструкционных металлов магний занимает третье место по распространенности в природе. Из его сплавов изготавливают корпуса ракет, топливные и кислородные баки, коробки передач, приборы высокой герметичности. Поэтому эффективная обработка магниевых сп…",
+            "url": "https://naked-science.ru/article/column/tehnologiya-uchenyh-permskogo-politeha-3",
+            "urlToImage": "https://naked-science.ru/wp-content/uploads/2023/02/field_image_d8snwwhxsaexfeg.jpg",
+            "publishedAt": "2023-02-06T08:11:32Z",
+            "content": ", . «» , . : . , . , . ? Naked Science ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "Киев потребовал от SpaceX выбрать \"сторону\" после ограничения доступа Украины к Starlink",
+            "description": "Gрезидент SpaceX Гвинн Шотвелл ранее сообщила, что доступ военных беспилотников к сети будет ограничен, поскольку технология \"разрабатывалась не для того, чтобы стать оружием\"",
+            "url": "https://tass.ru/mezhdunarodnaya-panorama/17007421",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/mezhdunarodnaya-panorama/17007421",
+            "publishedAt": "2023-02-09T10:47:46Z",
+            "content": ", 9 . //. SpaceX, Starlink, , , .\r\n\" : , [ ], &lt;...&gt;. SpaceX (Starlink) ( SpaceX - . ), \", - Twitter.\r\n28 , $544 . , Starlink. Starlink . , \" , \".\r\nStarlink - . SpaceX. Starlink ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rg.ru"
+            },
+            "author": null,
+            "title": "Daily Mail: Сын Джо Байдена Хантер требовал от подчиненной прислать интимное видео",
+            "description": "Сын главы Белого дома Хантер Байден пригрозил одной из своих безденежных молодых сотрудниц удержанием ее зарплаты, если она не свяжется с ним голой по FaceTime (технология видео- аудиозвонков), сообщает Daily Mail.",
+            "url": "https://rg.ru/2023/01/31/daily-mail-syn-dzho-bajdena-hanter-treboval-ot-podchinennoj-prislat-intimnoe-video.html",
+            "urlToImage": "https://cdnstatic.rg.ru/images/rg-social-dummy-logo-650x360.jpg",
+            "publishedAt": "2023-01-31T17:48:08Z",
+            "content": "52- , 29 , . , - \"\" Apple Pay , , . , , Owasco 2018 2019 . , , .\r\n, , , , , , . , , , , . .\r\n , , . - Macbook Pro 2017 , . \" \". , , -, -, . , .\r\n , The New York Post, , , . , , .\r\n, , , , . , , - . ,… [+75 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "dexter@ixbt.com (Dexter)",
+            "title": "Впервые в истории Xiaomi. Новейший флагман Xiaomi 13 Ultra получит объектив с переменной диафрагмой",
+            "description": "Инсайдер Digital Chat Station рассказал кое-что о камере перспективного флагмана Xiaomi 13 Ultra. По словам информатора, в ней пропишется объектив с переменной диафрагмой. Эта технология будет впервые внедрена в мобильном телефоне Xiaomi. \r\n Впервые у Xiaomi,…",
+            "url": "https://www.ixbt.com/news/2023/02/04/xiaomi-xiaomi-13-ultra.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/6/cc770d0b6b40a955d7cbd97b640c658d_large.jpg",
+            "publishedAt": "2023-02-04T17:01:00Z",
+            "content": "Digital Chat Station - Xiaomi 13 Ultra. , . Xiaomi.\r\n Xiaomi, Huawei. , Xiaomi Sony IMX989 1 . , 32- .\r\n Digital Chat Station Redmi K50 Xiaomi 12."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "hello_hella",
+            "title": "В России появилась технология для контроля звукового режима в магазинах",
+            "description": "Российский производитель музыкальных и визуальных решений для бизнеса Cubic Media разработал технологию «Контроль звука», которая с помощью алгоритмов и нейросети помогает ретейлерам отслеживать соблюдение правил использования лицензионной музыки и звукового …",
+            "url": "https://habr.com/ru/news/t/717586/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/817/50c/b0a/81750cb0a0def42db89d9aea1f7902a7.jpg",
+            "publishedAt": "2023-02-17T09:22:09Z",
+            "content": "Cubic Media « », , . , .\r\n , , . , .  \r\n 5 (. 1301 ) . , . , , . \r\n Cubic Media, . \r\n : , . API. \r\nCubic Media , . , . \r\n Cubic Media . , , , , .\r\n 2022 , , 2,4 2021 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ferra.ru"
+            },
+            "author": "Максим Многословный",
+            "title": "Долгожданную российскую игру Atomic Heart слили в Сеть за два дня до релиза",
+            "description": "Сегодня слили дебаг-сборку компьютерной игры Atomic Heart, где отсутствует технология защиты от пиратства Denuvo. Сборку для разработчиков опубликовал в сети один из пользователей форума breached.",
+            "url": "https://www.ferra.ru/news/games/dolgozhdannuyu-rossiiskuyu-igru-atomic-heart-slili-v-set-za-dva-dnya-do-reliza-19-02-2023.htm",
+            "urlToImage": "https://www.ferra.ru/imgs/2023/02/19/13/5801780/7815843ae300f3dab8a0973898162e7e4a26dabe.jpeg",
+            "publishedAt": "2023-02-19T13:01:27Z",
+            "content": "Atomic Heart - , 1950- . ( ).\r\n , , . ( , Atomic Heart 2022 ), , , . , .\r\n Atomic Heart 21 2023 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sostav.ru"
+            },
+            "author": "Мария Полищук",
+            "title": "Российские сервисы наращивают объёмы аудиокниг, озвученных искусственным интеллектом",
+            "description": "Технология пока не может заменить диктора, но она уже дешевле и быстрее дикторской записи",
+            "url": "https://www.sostav.ru/publication/knizhnye-servisy-ii-58696.html",
+            "urlToImage": "https://www.sostav.ru/images/news/2023/01/23/preview/58696_social.jpg?rnd=844716",
+            "publishedAt": "2023-01-23T06:20:00Z",
+            "content": "() .        , ,      , «»    .\r\n , «» ( )   10 .     MTS AI. Audiogram.    — ,   (natural language processing, NLP).   600 , .\r\n ,   , ,   .      .\r\n , «» ( «», MyBook, Livelib)  .     ,  2020 ,   20… [+182 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "dexter@ixbt.com (Dexter)",
+            "title": "Все гениальное – просто. Samsung Galaxу S23 получили систему зарядки, которая может обходить батарею и питать телефон напрямую",
+            "description": "Гениально простое решение Samsung реализовала в своих новейших флагманах Galaxy S23. В меню есть пункт под названием Pause USB Power Delivery. При его активации аккумулятор телефона не будет заряжаться, вместо этого аппарат будет получать питание напрямую от …",
+            "url": "https://www.ixbt.com/news/2023/02/08/samsung-galax-s23.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/3/gsmarena_000%20(1)_large_large.jpg",
+            "publishedAt": "2023-02-08T09:18:00Z",
+            "content": "Samsung Galaxy S23. Pause USB Power Delivery. , .\r\n , . , . , , .\r\n , ( ) 17 , , 6 – . , . , , .\r\n , 20%. , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "snezhko",
+            "title": "[recovery mode] Новая технология – телефон-маршрутизатор SBC",
+            "description": "В это статье мы расскажем о новой технологии 3CX - телефонах-маршрутизаторах SBC. Что это такое и для чего это нужно?С появлением Хостинга 3CX, и развитием облачных сервисов телефонии в целом, пограничный контроллер сессий 3CX (SBC) оказался особенно востребо…",
+            "url": "https://habr.com/ru/company/3cx/blog/712256/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/c6e/8c0/211/c6e8c0211e17b4f60ef166e05e15e6e2.png",
+            "publishedAt": "2023-01-23T11:45:25Z",
+            "content": "3CX - - SBC. ?\r\n 3CX, , 3CX (SBC) . SBC 3CX IP-, .\r\n () 3CX, . 3CX SBC VoIP- (SIP () RTP ()) . , VoIP.\r\nV18 Update 6 Beta 3CX SBC IP-. SBC Raspberry Pi ( Raspberry Pi, ).\r\n - SBC \r\nIP- ( SIP-), . -, … [+743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "KonstantinC",
+            "title": "[recovery mode] Технология электронно-много-лучевой литографии",
+            "description": "Скорость засветки у электронно-лучевого литографа на порядки меньше скорости засветки у лазерного генератора фотошаблонов.На один фотошаблон может потребоваться до нескольких суток, а если учесть что полный комплект фотошаблонов для микросхемы может состоять …",
+            "url": "https://habr.com/ru/post/717736/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/ec1/2e2/4f8/ec12e24f8bb2b36439f1129b8600a4c3.jpg",
+            "publishedAt": "2023-02-18T00:01:34Z",
+            "content": ".\r\n «» . , , DUV (Deep Ultra-Violet, 193 ) EUV (Extreme Ultra-Violet, 13,5 ).\r\n , . , , . «» - .\r\n4 , , .. «» «» 4 .\r\n , , 180 . 180 , , . - . .. , 1-5 .\r\n «»\r\n - .\r\n , 80 . , () .\r\n - ( 15 . USD), ,… [+1878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "Anatolivanov",
+            "title": "Прорезка и заполнение швов в полах герметиком (технология занесения и цена вопроса)",
+            "description": "Видео про резку швов с заполнением их герметиком (деформационные швы)\r\nВ статье про правильное заполнение швов герметиком, как это делается на промышленных полах (с затиркой под топпинг), также в статье есть видео для наглядности всех процессов.\r\nКАРТА разрез…",
+            "url": "https://pikabu.ru/story/prorezka_i_zapolnenie_shvov_v_polakh_germetikom_tekhnologiya_zaneseniya_i_tsena_voprosa_9888277",
+            "urlToImage": "https://cs13.pikabu.ru/video/2023/01/27/1/og_og_1674770570362559770.jpg",
+            "publishedAt": "2023-01-26T22:02:49Z",
+            "content": ". \r\n , . , , - . - . ... \r\n . . . - . \r\n: \r\n<ol><li> 2005 . , . . \r\n</li><li>2. 2007 . \r\n</li><li> 2008 . \r\n</li><li> 2009 ( , - )\r\n</li><li> 2010 . \r\n</li><li> . 2014 . \r\n</li><li> 2017 . \r\n</li><li… [+261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rg.ru"
+            },
+            "author": null,
+            "title": "Российские банки тестируют платежные стикеры для бесконтактной оплаты покупок",
+            "description": "Российские банки намерены пополнить свой арсенал платежных \"примочек\" так называемыми стикерами - наклейками на телефон, с помощью которых можно будет проводить бесконтактные платежи. Опрошенные \"Российской газетой\" аналитики заявляют, что технология не нова …",
+            "url": "https://rg.ru/2023/01/23/ne-eppl-pejem-edinym.html",
+            "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2023/01/23/4p_apple-1_30f.jpg",
+            "publishedAt": "2023-01-23T15:20:14Z",
+            "content": "-. 100 . . . () \" \" .\r\n , \".\" , . \" 2023 \", - . , . - , Pay-. Android Mir Pay Samsung Pay.\r\n . \" \" , - NFC - . \" , , , \" \". , . , () ( . - \"\")\", - . , , QR- . , , , .\r\n- , ApplePay . \" NFC . , . , , … [+49 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rg.ru"
+            },
+            "author": null,
+            "title": "Мошенники будут активнее использовать для хищений технологию оплаты по QR-коду, считают эксперты",
+            "description": "Мошенники будут активно использовать для хищений технологию оплаты через Систему быстрых платежей (СБП) по QR-коду, считают эксперты банка ВТБ, второго по размеру активов в РФ. Аналитики, опрошенные \"Российской газетой\", отмечают, что сама технология СБП безо…",
+            "url": "https://rg.ru/2023/02/03/moshenniki-budut-aktivnee-ispolzovat-dlia-hishchenij-tehnologiiu-oplaty-po-qr-kodu-schitaiut-eksperty.html",
+            "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2023/02/03/1847_cab.jpg",
+            "publishedAt": "2023-02-03T15:37:04Z",
+            "content": "\" 2023 . , QR-\", - .\r\n , , . , , , , .\r\n - , , . . , 200 , . QR- .\r\n 2022 , 15 : 72 2,9 . .\r\n\" , - . QR- , . , , \"\", . - , , . \", - \" \" \"\" .\r\n, QR- , . \", , 115-. , \", - .\r\n , \" \", \" \" .\r\n\" . , QR- \"… [+229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rg.ru"
+            },
+            "author": null,
+            "title": "Собянин рассказал о поддержке одиноких людей на дому социальными службами Москвы",
+            "description": "О новом стандарте надомного обслуживания одиноких пожилых жителей столицы и инвалидов Москвы рассказал Сергей Собянин на своем персональном сайте: \"Надомное социальное обслуживание - важнейшая, а порой и единственная ниточка, связывающая с внешним миром одино…",
+            "url": "https://rg.ru/2023/01/31/sobianin-rasskazal-o-podderzhke-odinokih-liudej-na-domu-socialnymi-sluzhbami-moskvy.html",
+            "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2023/01/31/ria_1294511hr_1000_97a.jpg",
+            "publishedAt": "2023-01-31T06:53:00Z",
+            "content": "Мэр отметил, что визит социального работника для них всегда событие. Его ждут, встречают как самого близкого человека. И порой это так и есть на самом деле. В системе социальной защиты Москвы надомны… [+3911 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "dexter@ixbt.com (Dexter)",
+            "title": "Большой экран OLED 120 Гц, 64 Мп с OIS, 5000 мА·ч и 120 Вт за 360 долларов. Представлен iQOO Neo 7 5G",
+            "description": "Ассортимент смартфонов IQOO сегодня пополнился моделью Neo 7 5G. Новинка дебютировала в Индии, где представлена двумя версиями: 8/128 ГБ за 360 долларов и 12/256 ГБ за 410 долларов. \r\n iQOO Neo 7 5G получил большой экран OLED с диагональю 6,78 дюйма, максимал…",
+            "url": "https://www.ixbt.com/news/2023/02/16/oled-120-64-ois-5000-120-360-iqoo-neo-7-5g.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/4/FpEe-pLakAA_1AG_large.jpg",
+            "publishedAt": "2023-02-16T11:20:00Z",
+            "content": "IQOO Neo 7 5G. , : 8/128 360 12/256 410 .\r\niQOO Neo 7 5G OLED 6,78 , 1000 /.., Full HD+ 120 .\r\n SoC MediaTek Dimensity 8200, – LPDDR5, - – UFS 3.1. – 16-. 64 (Samsung ISOCELL GW3), 2 2 . – 5000 ·, 12… [+39 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "dexter@ixbt.com (Dexter)",
+            "title": "В России начали продавать новейший полноприводный кроссовер Lexus RZ мощностью 313 л.с. Сколько за него просят?",
+            "description": "Несколько дилеров начали предлагать россиянам приобрести новейший кроссовер Lexus RZ с двухмоторной электрической силовой установкой мощностью 313 л.с. Один из вариантов оценен в 7,6 млн рублей, стоимость второго – 8,3 млн. \r\n Lexus RZ – это абсолютная новинк…",
+            "url": "https://www.ixbt.com/news/2023/01/23/lexus-rz-313.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/0/1/The_frontview_of_Lexus_RZ_450e_PROTOTYPE_large.jpg",
+            "publishedAt": "2023-01-23T08:11:00Z",
+            "content": "Lexus RZ 313 .. 7,6 , – 8,3 .\r\nLexus RZ – . 2023 . RZ 450e. Lexus , Toyota bZ4X, - .\r\n , Lexus RZ (4805 1895 1635 ) , RX , – 2850 .  \r\n Lexus RZ Steer-by-wire: . , , – .\r\n ,  – Grandeur ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "SLY_G",
+            "title": "Новая технология российских учёных поможет добывать высоковязкую нефть с больших глубин",
+            "description": "На фото: анализ состава образцов.\n\nУчёные разрабатывают новую технологию, которая позволит извлекать высоковязкую нефть с больших глубин. Она основана на использовании металлсодержащих катализаторов — ускоряющих реакцию химических веществ — в комбинации с мик…",
+            "url": "https://habr.com/ru/news/t/711702/#post-content-body",
+            "urlToImage": "https://habr.com/share/publication/711702/0ab3d1180b768a7eabfe3fed39356699/",
+            "publishedAt": "2023-01-19T20:15:25Z",
+            "content": ": ., . ( ). (). 20242025 . . .\r\n. , - ( ), .\r\n« , . , . , . . », - () .\r\n, . , -. , .\r\n« . , - . -. - , 400 ° . (, , ), », .\r\n : , .\r\n, , - , .\r\n« , , . , », .\r\n- .\r\n« . . -, , », .\r\n« 2030» « ». , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "daniilshat",
+            "title": "iPhone 14 позвонил в полицию после автомобильной аварии в Тасмании, технология помогла спасти шесть человек",
+            "description": "В Департаменте полиции Австралии рассказали, что функция обнаружения аварий в iPhone 14 помогла спасти жизни шести человек, которые на автомобили вылетели с дороги. Спасатели прибыли на место происшествия спустя 8 минут после звонка от iPhone. Читать далее",
+            "url": "https://habr.com/ru/news/t/714066/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/92b/adf/7d8/92badf7d8d4d226a5cdc6b2e76f37d91.jpg",
+            "publishedAt": "2023-01-31T21:14:01Z",
+            "content": ", iPhone 14 , . 8 iPhone.\r\nABC News , . . 6 14 20 , 4 . .\r\niPhone . , 8 . , . , 2 4 , 2 .\r\n, iPhone . , .\r\n iPhone 14, Apple Watch Series 8, Apple Watch SE 2 Apple Watch Ultra. , . , , . , . , .\r\n , … [+58 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "jin@ixbt.com (Jin)",
+            "title": "Твердотельный накопитель Samsung 980 на 1 ТБ рекордно подешевел в Китае",
+            "description": "Твердотельный накопитель Samsung 980 емкостью 1 ТБ упал до нового минимума в Китае, где устройство можно купить в магазине Jingdong за 76 долларов. Стартовая цена составляла около 150 долларов. Samsung 980 — это первый твердотельный накопитель Samsung без DRA…",
+            "url": "https://www.ixbt.com/news/2023/02/13/samsung-980-1.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/1/20210310_102615_313_large.png",
+            "publishedAt": "2023-02-13T10:11:00Z",
+            "content": "Samsung 980 1 , Jingdong 76 . 150 .\r\nSamsung 980 — Samsung DRAM, Host Memory Buffer (HMB), - .\r\n Samsung Electronics V-NAND Samsung 980 3500 / 3000 / .\r\n, , Samsung 980 Pro, 102 . , 2020 280 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "verko@corp.ixbt.com (VerKo)",
+            "title": "Спирулина на МКС: космонавты выращивают микроводоросли в невесомости",
+            "description": "На Международной космической станции российские космонавты проводят ряд интересных экспериментов. Подробностями об одном из них поделилась пресс-служба Роскосмоса.  \r\n Фото: Роскосмос Эксперимент под названием «Фотобиореактор» подразумевает культивирование ми…",
+            "url": "https://www.ixbt.com/news/2023/02/13/spirulina-na-mks-kosmonavty-vyrashivajut-mikrovodorosli-v-nevesomosti.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/1/photo_2023-02-13_16-56-09_large.jpg",
+            "publishedAt": "2023-02-13T14:44:00Z",
+            "content": ". - . \r\n «» . , . :\r\n , . , — - . \r\n, . , , . \r\n . , : , , . . – . .\r\nHyundai Mufasa. \r\n<ul><li> : : </li><li> 17:37 Hyundai Mufasa. . </li><li> 17:26 CD Projekt « 3: » . </li><li> 17:261 -. </li><li… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rg.ru"
+            },
+            "author": null,
+            "title": "Фолк-рок-группа \"Мельница\" едет по России с \"Сердцем ястреба\"",
+            "description": "Всем нам хочется порой верить в сказки, как в детстве. В добрых и бесстрашных героев, которые обязательно победят зло, ну или хотя бы лень, обыденность и скуку. Или даже - создавать новые. С актуальными для времени героями, а, может, иногда и самому чувствова…",
+            "url": "https://rg.ru/2023/01/30/sygraj-na-strunah-dikih-trav.html",
+            "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2023/01/30/11p_2k_helavisa-1_4da.jpg",
+            "publishedAt": "2023-01-30T17:16:00Z",
+            "content": "Начиная с октября \"Мельница\" дала уже больше 40 концертов. А попутно ее лидер - певица и арфистка Наталья О Шей в Новокузнецке узнавала, что при простуде помогает заваренный мох и ягоды (на улице был… [+3818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Finance.ua"
+            },
+            "author": "Finance.UA",
+            "title": "Билл Гейтс назвал самую перспективную область ІТ-индустрии",
+            "description": "Основатель компании Microsoft и ее бывший руководитель Билл Гейтс пообщался с пользователями ресурса Reddit по темам будущего в ІТ. Он рассказал, какая технология, по его мнению, станет движущей силой в ІТ-индустрии в ближайшие годы.",
+            "url": "https://news.finance.ua/ru/bill-geyts-nazval-samuyu-perspektivnuyu-oblast-t-industrii",
+            "urlToImage": "https://finance-news-media.fra1.cdn.digitaloceanspaces.com/prod/9/3/932c3e9577f2cc1411c0d91b3cd7b993",
+            "publishedAt": "2023-01-19T22:31:00Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Naked-science.ru"
+            },
+            "author": "ПНИПУ",
+            "title": "Ученые Пермского Политеха упростили производство целлюлозы",
+            "description": "Целлюлоза служит основой не только для производства бумаги, но и различной химической продукции: вискозного шелка, лаков, красок, пороха. При ее изготовлении сырье необходимо очистить от примесей и отбелить. Ученые Пермского Политеха разработали метод, при ко…",
+            "url": "https://naked-science.ru/article/column/uchenye-permskogo-politeha-uprostili",
+            "urlToImage": "https://naked-science.ru/wp-content/uploads/2023/01/slider-1_01.png",
+            "publishedAt": "2023-01-25T05:00:00Z",
+            "content": "« » , . 70 , () . «» «», , . , , . , , , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mysku.club"
+            },
+            "author": "triante",
+            "title": "Гарнитура виртуальной реальности Sony PlayStation VR2 за 64 800 руб.",
+            "description": "Гарнитура Thegroundbreaking PlayStation VR2 и контроллер PlayStation VR2 Sense в прямом смысле слова погрузят вас с головой в виртуальную реальность игрового мира с новым уровнем ощущений. Инновационная технология PlayStation VR2 Sense позволяет пережить необ…",
+            "url": "https://mysku.club/blog/discounts/94814.html",
+            "urlToImage": "https://ext.mysku-st.net/250s/ae04.alicdn.com/kf/Sa7d74d6037f943519425477fb211766cW.jpg_640x640.jpg",
+            "publishedAt": "2023-02-18T17:20:42Z",
+            "content": "Thegroundbreaking PlayStation VR2 PlayStation VR2 Sense . PlayStation VR2 Sense -, , 3D-, , , PS VR2 Sense.\r\n oled- 2000x2040 120 fps, 4K HDR, 4 PlayStation VR\r\nEye tracking Simulating , , \r\nFoveated… [+398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "maybe_elf",
+            "title": "В Chrome 110 появилась поддержка технологии Nvidia RTX Video Super Resolution",
+            "description": "В Chrome 110 внедрили поддержку технологии Nvidia RTX Video Super Resolution (VSR). Технология апскейлинга откроет возможности ИИ-масштабирования видео до формата 4K с помощью интернет-браузеров Chrome и Edge. Читать далее",
+            "url": "https://habr.com/ru/news/t/715072/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/cad/951/be3/cad951be3ce26272a7aed02a1d3c414b.jpg",
+            "publishedAt": "2023-02-06T08:47:01Z",
+            "content": "Chrome 110 Nvidia RTX Video Super Resolution (VSR). - 4K - Chrome Edge.\r\nGoogle Chrome (110.0.5481.77), . 7 .\r\nChrome 110 Video Super Resolution, . RTX VSR , Nvidia. \r\nNvidia YouTube, , . , VSR GeFor… [+125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "Travis_Macrif",
+            "title": "Microsoft Edge получил бесплатный софт для просмотра PDF от Adobe",
+            "description": "В браузере Microsoft Edge появилось бесплатное решение для просмотра файлов в формате PDF от софтверной компании Adobe. Технология Adobe Acrobat PDF станет доступна пользователям Windows 10 и 11 с марта 2023 года, указано на сайте Microsoft. Читать далее",
+            "url": "https://habr.com/ru/news/t/715776/#post-content-body",
+            "urlToImage": "https://habrastorage.org/webt/tu/br/wg/tubrwgxzs8pgnjdnkjvtaggnosg.jpeg",
+            "publishedAt": "2023-02-09T07:48:02Z",
+            "content": "Microsoft Edge PDF Adobe. Adobe Acrobat PDF Windows 10 11 2023 , Microsoft.\r\nAdobe Acrobat . Microsoft PDF .\r\n PDF , Adobe.\r\n Adobe, , , PDF-.\r\n Windows 10 11 Adobe Edge.\r\n PDF 31 2024 . Microsoft Ma… [+114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "zloishavrin",
+            "title": "Трассировка лучей: Технологический прорыв в компьютерной графике и играх",
+            "description": "Трассировка лучей - это технология, которая произвела революцию в создании и восприятии визуальных эффектов в области компьютерной графики и видеоигр. Но откуда взялась эта технология и как она работает? В этой статье мы рассмотрим происхождение трассировки л…",
+            "url": "https://habr.com/ru/post/713246/#post-content-body",
+            "urlToImage": "https://habr.com/share/publication/713246/5849a64da543e60ce418821f2d21f0d1/",
+            "publishedAt": "2023-01-27T11:27:51Z",
+            "content": "- , . ? , .\r\n1960- 1970- , . , Sketchpad, . .\r\n. , . , , , .\r\n , , , , . , , . , , , , . , . , .\r\n . - , . , . , , , , .\r\n . - , . - , , , . , .\r\n , . . , .\r\n 2023 \r\n , , . . . , . , .\r\n , Unreal Eng… [+35 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motor.ru"
+            },
+            "author": "Алексей Носаченко",
+            "title": "Компания General Motors придумала самоочищающийся от отпечатков пальцев сенсорный дисплей",
+            "description": "Компания General Motors придумала самоочищающийся от отпечатков пальцев сенсорный дисплей. Технология подразумевает использование дополнительного УФ-субпикселя в матрице и фотохимического катализатора, например диоксида титана. Под воздействием УФ-излучения н…",
+            "url": "https://motor.ru/news/self-cleaning-screen-17-02-2023.htm",
+            "urlToImage": "https://motor.ru/imgs/2023/02/17/07/5798857/319e76c57e44605d0d60f97c4333d006706df9a3.jpg",
+            "publishedAt": "2023-02-17T08:04:24Z",
+            "content": "General Motors . , , -, RGB-. ( ), , . ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vz.ru"
+            },
+            "author": null,
+            "title": "Российские ученые кратно сократили время выращивания карпов",
+            "description": "Специалисты Новосибирского государственного аграрного университета создали способ разведения зеркальных карпов, существенно ускоряющий рост этой рыбы, цикл вместо года с небольшим теперь занимает менее шести месяцев, рассказал доцент биолого-технологического …",
+            "url": "https://vz.ru/news/2023/1/19/1195611.html",
+            "urlToImage": "https://img.vz.ru/upimg/soc/soc_1195611.png",
+            "publishedAt": "2023-01-19T09:59:49Z",
+            "content": ", . «», . .\r\n« , . «» 1943 », , , . . \r\n«, . , , », . \r\n , , , . «, . , , , , , 1944 », . \r\n« , , , , . , , », . \r\n . 1916 . « , », . \r\n« , 1942 (). . , , , «» . », . \r\n , . « , , . , . . , . «», . \r… [+141 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "Елена Апазиди",
+            "title": "Выявлено влияние алкоголя во время беременности на форму лица детей",
+            "description": "Команда ученых из Медицинского центра Эразмус в Роттердаме выявила последствия влияния алкоголя, употребляемого до и во время беременности, на форму лица будущих детей. Для этого авторами был использован алгоритм искусственного интеллекта (ИИ) и технология гл…",
+            "url": "https://lenta.ru/news/2023/02/16/alco/",
+            "urlToImage": "https://icdn.lenta.ru/images/2023/02/16/14/20230216140032260/share_8b9cdcc5ef8ce7a75358840bd194ce9e.jpg",
+            "publishedAt": "2023-02-16T12:19:42Z",
+            "content": ", , . Human Reproduction.\r\n () , , , ( ), , 3D-.\r\n 3149 2477 13 . Generation R , , .\r\n , . , 12 , 175 330 .\r\n , , « », .\r\n , , (), . , . , (), , , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "vorobiev@ixbt.com (Vorobiev)",
+            "title": "ВТБ протестирует операции с цифровым рублем на своих сотрудниках",
+            "description": "В 2023 году ВТБ проведет тестирование транзакций с цифровым рублём среди своих сотрудников. \r\n Иллюстрация: Банк России По словам заместителя президента-председателя правления ВТБ Анатолия Печатникова, банк уже провёл тестирование операций по покупке цифровых…",
+            "url": "https://www.ixbt.com/news/2023/02/14/vtb-protestiruet-operacii-s-cifrovym-rublem-na-svoih-sotrudnikah.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/2/cfa-rub_large.jpg",
+            "publishedAt": "2023-02-14T20:08:00Z",
+            "content": "2023 . - , () .« . . Friends &amp; Family, , - , », - .\r\n , 2024 . , , () . « , »."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "jin@ixbt.com (Jin)",
+            "title": "Xiaomi Mix Fold 2 выйдет в России",
+            "description": "В базе данных Евразийской экономической комиссии появилась запись о сертификации складного смартфона Xiaomi Mix Fold 2. Xiaomi Mix Fold 2 был представлен в Китае в августе прошлого года, смартфон пока не вышел на глобальном рынке, а Xiaomi не делала соответст…",
+            "url": "https://www.ixbt.com/news/2023/02/04/xiaomi-mix-fold-2.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/6/image%20(2)_large.png",
+            "publishedAt": "2023-02-04T07:59:00Z",
+            "content": "Xiaomi Mix Fold 2.\r\nXiaomi Mix Fold 2 , , Xiaomi .\r\nMobiltelefon , Xiaomi Mix Fold 2 , .\r\n, , Xiaomi Mix Fold 2 Mobile World Congress 2023, .\r\n Qualcomm Snapdragon 8 Plus Gen 1 NFC, Dolby Atmos. 8,02… [+65 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "jin@ixbt.com (Jin)",
+            "title": "«Производительные телефоны должны отказаться от 8 ГБ ОЗУ», — OnePlus переходит на 12/16 ГБ ОЗУ",
+            "description": "Ли Цзе, президент китайского офиса OnePlus China, официально заявил, что новый смартфон OnePlus Ace 2 получит до 16 ГБ современной производительной памяти LPDDR5X. По мнению OnePlus, в современных производительных смартфонах не должно быть 8 ГБ оперативной па…",
+            "url": "https://www.ixbt.com/news/2023/02/06/8-oneplus-12-16.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/1/gsmarena_001_large.jpg",
+            "publishedAt": "2023-02-06T05:41:00Z",
+            "content": ", OnePlus China, , OnePlus Ace 2 16 LPDDR5X.\r\n OnePlus, 8 . OnePlus Ace 2 12 .\r\n , 8 . 2023 , 8 .\r\n, 8/128 , OnePlus .\r\n , Ace 8 . OnePlus Ace 2 12 , 16 .\r\nOnePlus Mobile , OnePlus 11 « » 16 LPDDR5X,… [+38 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "dexter@ixbt.com (Dexter)",
+            "title": "13 000 мА·ч, 6/128 ГБ, IP68/IP69K за 175 долларов. Представлен защищенный смартфон Blackview Oscal S80",
+            "description": "У бренда Blackview пополнение в виде защищенного смартфона Oscal S80. В этой модели обращают на себя внимание два момента: емкость аккумуляторной батареи и, собственно, параметры защиты. \r\n Oscal S80 получил аккумулятор емкостью 13 000 мА·ч: по данным произво…",
+            "url": "https://www.ixbt.com/news/2023/02/12/13-000-6-128-ip68-ip69k-175-blackview-oscal-s80.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/1/0/S690d4f96d55e4219adb0f8cd404c9779O_large.jpg",
+            "publishedAt": "2023-02-11T23:49:00Z",
+            "content": "Blackview Oscal S80. : , , .\r\nOscal S80 13 000 ·: , 48 . , . , -45 ° 10 , 70 ° – 8 .\r\n «» Oscal S80 : IP68/IP69K, MIL-STD-810H.\r\n SoC MediaTek Helio G85, 6 128 - eMMC 5.1. AnTuTu Oscal S80 280 . . - … [+146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "evrica25",
+            "title": "Как использовать GPT-3 для повышения эффективности маркетинга?",
+            "description": "GPT-3 - это новейшая технология, которая предлагает безграничные возможности для развития бизнеса. Одним из ключевых направлений ее использования является маркетинг.В этой статье мы рассмотрим, как использование GPT-3 может повысить эффективность маркетинга и…",
+            "url": "https://habr.com/ru/post/714918/#post-content-body",
+            "urlToImage": "https://habr.com/share/publication/714918/0aa3c698789dc42dacd698deed65e1fa/",
+            "publishedAt": "2023-02-05T10:40:18Z",
+            "content": "GPT-3 - , . .\r\n , GPT-3 .\r\n10 GPT-3 \r\n<ol><li> : GPT-3 , , , , -.\r\n</li><li>: GPT-3 .\r\n</li><li> : GPT-3 .\r\n</li><li> : GPT-3 .\r\n</li><li> : GPT-3 .\r\n</li><li> : GPT-3 , , . \r\n</li><li> : GPT-3 .\r\n</… [+489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Exler.ru"
+            },
+            "author": "Алексей Экслер",
+            "title": "ИИ-модель, точно имитирующая голос",
+            "description": "Microsoft представила модель искусственного интеллекта (ИИ) под названием VALL-E &mdash; она преобразует текст в речь, точно имитируя голос человека, а образцом может служить запись продолжительностью всего в три секунды. При этом ИИ сохраняет эмоциональную о…",
+            "url": "https://exler.ru/blog/ii-model-tochno-imitiruyushchaya-golos.htm",
+            "urlToImage": "https://exler.ru/s/600/blog/image/20230120/63ca52f0e615a.jpg",
+            "publishedAt": "2023-01-20T09:00:00Z",
+            "content": "Microsoft () VALL-E — , , . .\r\n , - GPT-3. , — «» , .\r\n Meta EnCodec, . , VALL-E , , ( «») , «» — , . LibriLight, Meta* — , , 60 000 7000 : LibriVox.\r\n- Microsoft VALL-E , . , , . (.)\r\n, , , , , , . … [+79 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "IgnatChuker",
+            "title": "PC Games Hardware допустили ошибку в тесте  игры Forspoken на GeForce RTX 4090 с технологией DirectStorage",
+            "description": "В технических  и около технических порталах и СМИ 26 января 2023 года прошла новость, что технология DirectStorage от Microsoft, разработанная для ускорения загрузок в играх и снижения нагрузки на центральный процессор, при запуске с игрой Forspoken привела к…",
+            "url": "https://habr.com/ru/news/t/713384/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/588/685/faa/588685faa3a4a05e1f3afce5ab1aa588.jpeg",
+            "publishedAt": "2023-01-27T22:07:38Z",
+            "content": "26  2023  ,   DirectStorage  Microsoft,       ,     Forspoken 10% FPS  GeForce RTX 4090.   PC Games Hardware. ,   DirectStorage     ,    .\r\nThe Verge, PC Games Hardware   CapFrameX , Intel PresentMon… [+175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mail.ru"
+            },
+            "author": "Юлия Углова",
+            "title": "У Apple все-таки будет «обратная» зарядка для iPhone: что известно",
+            "description": "Похоже, «яблочная» компания не отказалась от идеи добавить реверсивную беспроводную зарядку в айфоны. Инсайдеры раскрыли новую информацию о полезной опции.\n«Обратную» зарядку часто называют реверсивной или двусторонней беспроводной зарядкой. Эта технология по…",
+            "url": "https://hi-tech.mail.ru/news/61834-u-apple-vse-taki-budet-obratnaya-zaryadka-dlya-iphone/",
+            "urlToImage": "https://resizer.mail.ru/p/bde233f5-b5ad-5d9c-a776-9761029289aa/AQAKBMl13gLYsM_4LBnPngGju14u_g-it5Acv-FhVkApikyoEVWRsKPwMne3GJjtIiHjUCc_sMkqC4Pai8ZskHZyhyg.jpg",
+            "publishedAt": "2023-02-07T13:25:00Z",
+            "content": "«» .  , . -\r\n   iPhone 12. , Apple , . \r\n  9to5Mac ,   . ,   , . \r\nApple , , MagSafe.  .\r\n  Apple , . ,  iPhone 14 Pro 14 Pro Max, , . . ,  «» iPhone , ."
+        }
+    ]
+}
