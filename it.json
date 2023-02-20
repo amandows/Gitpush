@@ -1,0 +1,435 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "habr_career",
+            "title": "Где работать в IT в 2022: МойСклад",
+            "description": "Наша рубрика «Где работать в IT\r\n» — это интервью с интересными айти-компаниями, в которых они делятся подробностями о процессах своей работы. Представители индустрии отвечают на вопросы о найме, условиях, командах и технологиях. В этом выпуске мы расскажем в…",
+            "url": "https://habr.com/ru/company/habr_career/blog/712220/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/703/645/278/703645278460316630a8f6723d09d48f.png",
+            "publishedAt": "2023-01-23T10:32:17Z",
+            "content": "« IT\r\n» -, . , , . \r\n.\r\n:\r\nHR-\r\nHead of Scrum\r\nCTO\r\n, 2,5 . 250 , .\r\n 2022 4,87 5. -, , , , , . \r\n. \r\n 2022 \r\n, HR \r\n ?\r\n work-life-balance: - 8, - 13. . «» , .\r\n , , , , .\r\n ?\r\n , 3 : , -. -, , . , … [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphones.ru"
+            },
+            "author": "Никита Горяинов",
+            "title": "Спорим, ты никогда не угадаешь этих айти-миллиардеров",
+            "description": "Половина человечества, включая лично вас, каждый день пользуется высокими технологиями и уже этому не удивляется. Нейросети, нейроаватары, нейро-всё-на-свете – уже даже не важно, как вы выглядите, думаете и говорите в реальности. Но где-то в этой самой реальн…",
+            "url": "https://www.iphones.ru/iNotes/it-billionaires-test",
+            "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F02%2Fvmoji-main-0002.jpg",
+            "publishedAt": "2023-02-05T18:31:07Z",
+            "content": ", , . , , --- , , .\r\n - , ! ?\r\n, , IT-. \r\n , !"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnews.ru"
+            },
+            "author": null,
+            "title": "СКДПУ НТ интегрирован с UTM-решением компании «Код безопасности»",
+            "description": "Компании «Айти бастион» и «Код безопасности» завершили тестирование интегрированного решения. Комплексная система...",
+            "url": "https://www.cnews.ru/news/line/2023-01-24_skdpu_nt_integrirovan_s_utm-resheniem",
+            "urlToImage": "https://www.cnews.ru/img/design2008/logocnews_f.png",
+            "publishedAt": "2023-01-24T07:10:00Z",
+            "content": "« » « » . UTM NGFW. , . CNews « ».\r\n , .\r\n : DS Integrity NG, , . 2,24 /; « 4», (UTM inc. NGFW) ; , .\r\n , , , .\r\n« , -. , . », « » . \r\n« , , . , . , », « » ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tass.ru"
+            },
+            "author": "ТАСС",
+            "title": "Kyodo: в Японии планируют снять ограничение на прибытие самолетов из Китая",
+            "description": "В настоящий момент прибывающие из КНР авиалайнеры могут приземляться только в четырех аэропортах, расположенных в Токио и Осаке, а также в центральной префектуре Айти",
+            "url": "https://tass.ru/mezhdunarodnaya-panorama/17002601",
+            "urlToImage": "https://cdn-storage-tass.cdnvideo.ru/thumb/ru/mezhdunarodnaya-panorama/17002601",
+            "publishedAt": "2023-02-09T02:36:44Z",
+            "content": ", 9 . //. , , - . Kyodo.\r\n , , . , , Kyodo.\r\n8 Fuji TV , - .\r\n 30 - , , . 8 . , 72 , -. .\r\n , . , COVID-19, , . 8 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "grinmakc",
+            "title": "Ответ на пост «Зарплату в айти в 25 тысяч рублей в месяц не хотите?»",
+            "description": "Расскажу свою историю. Работал я удаленно в техподдержке около семи лет. Низкая зарплата, тупые пользователи и все прелести данной работы ужасно надоели. Случайно от знакомого работающего в геймдев студии узнал, что у них есть вакансия. Самая низкая, наскольк…",
+            "url": "https://pikabu.ru/story/otvet_na_post_zarplatu_v_ayti_v_25_tyisyach_rubley_v_mesyats_ne_khotite_9913281",
+            "urlToImage": "https://d.pikabu.ru/cache.php?route=share_preview&story_id=9913281&time=1675416561&u=grinmakc",
+            "publishedAt": "2023-02-03T09:29:21Z",
+            "content": ". . , . , . , . . . . , .\r\n, . ..., . . 3 . ?, , .. . , - . . . , . , . - . . . , . . , . ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "Kshishtov",
+            "title": "Ответ на пост «Зарплату в айти в 25 тысяч рублей в месяц не хотите?»",
+            "description": "Добро пожаловать в продажи: идешь на собес 100+, предлагают 18 оклад, остальное премия, \"потолка нет\", естественно все в черную.\r\nКогда сквозь пот, кровь и слезы наконец заработаешь эту ебаную сотку - директор говорит, что на куй тебе так много и отслюнявлива…",
+            "url": "https://pikabu.ru/story/otvet_na_post_zarplatu_v_ayti_v_25_tyisyach_rubley_v_mesyats_ne_khotite_9908495",
+            "urlToImage": "https://d.pikabu.ru/cache.php?route=share_preview&story_id=9908495&time=1675286994&u=Kshishtov",
+            "publishedAt": "2023-02-01T21:29:54Z",
+            "content": ", . , ., , .\r\n 13- . , . , . , . , , . , , , . , , \" , \". . , , . , . , , .\r\n . , . - . , . . , .\r\n 35. 32. , . . , , . , , , \"\" .\r\n , , - . - . . .\r\n , , . , . , , , , , . , . , , . ( ) : \" \". , ? ,… [+204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "alienbody",
+            "title": "Ответ lbonanzza в «Зарплату в айти в 25 тысяч рублей в месяц не хотите?»",
+            "description": "А я перегорел в программировании в свое время. Интересно мне было программировать только в институте когда учился и несколько лет после. Меня привлекало именно системное программирование и гэймдев, однако на местном уровне такое нахрен не нужно было никому, н…",
+            "url": "https://pikabu.ru/story/otvet_lbonanzza_v_zarplatu_v_ayti_v_25_tyisyach_rubley_v_mesyats_ne_khotite_9912416",
+            "urlToImage": "https://d.pikabu.ru/cache.php?route=share_preview&story_id=9912416&time=1675399935&u=alienbody",
+            "publishedAt": "2023-02-03T04:52:15Z",
+            "content": ". . , , , . , , 1-, , .\r\n , , - , , - VISUAL ++ .. 1- - , , . , . , ,   , . \" \"  , , ..... - , ?..\r\n , , - , 11- , . , , , , , . - , , . , , , , , . , , \" \", . , ,   , , ... , ,  ,   - , , , - .\r\n , … [+54 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "lbonanzza",
+            "title": "Ответ на пост «Зарплату в айти в 25 тысяч рублей в месяц не хотите?»",
+            "description": "Родной завод милее, да? 15 лет проработал не на заводе, но на производстве, оператором чпу. Последние два года обучался самостоятельно на программиста. Долго, потому что основная работа, семья, дети. Но все свободное время тратил на обучение. Компьютер сайнс,…",
+            "url": "https://pikabu.ru/story/otvet_na_post_zarplatu_v_ayti_v_25_tyisyach_rubley_v_mesyats_ne_khotite_9911802",
+            "urlToImage": "https://d.pikabu.ru/cache.php?route=share_preview&story_id=9911802&time=1675366714&u=lbonanzza",
+            "publishedAt": "2023-02-02T19:38:34Z",
+            "content": "New Line Cinema, 1990- , Mortal Kombat. : , , , , , , ?\r\n « » , . . « », «» «» ,   1990- «: ». , .\r\n . «-», « » « » .\r\n . . . ,   - «» . , «» 100 , . ,  , « » . , , CGI- -. , .\r\n , . , - , .\r\n « » . … [+923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "Virich_A",
+            "title": "Техподдержка – техноддержОЧКА. Делаю камингаут – да, я айти инженер",
+            "description": "Приехал на объект, ничего не предвещало ничего и тут понеслась!Сразу спойлерну история закончилась хорошо. В итоге было найдено решение возникшей проблемы, спасибо пользователю «Dustin», который дал развёрнутый ответ. Не знаю инженер ли ты или просто добрый а…",
+            "url": "https://habr.com/ru/post/712998/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/162/236/abf/162236abf85b62dc2ffef9dd20e43129.png",
+            "publishedAt": "2023-01-26T13:46:02Z",
+            "content": ". , «Dustin», . , . -- ) \r\n , 3 , :3 ?! - , , + ! \r\n( , ) ,    Huawei. - oceanstor dorado 6000 V3  Taishan (2280 v2 ). \r\n . , , ; . , , , , , , , . , , , , . \r\n, , ,  ip 127.0.0.1:8080 (, , ), , ,  U… [+1376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olegmakarenko.ru"
+            },
+            "author": "olegmakarenko.ru",
+            "title": "Спрос на айтишников, увольнения в ИТ-корпорациях и рост прибыли российских ОС",
+            "description": "1. В России резко выросло число вакансий для айти-специалистов. Проблема не в отъезде «испуганных патриотов», а в том, что айти-отрасль восстанавливается и расширяется после прошлогоднего шока, из-за чего ей нужны свежие мозги (ссылка): В России взлетел спрос…",
+            "url": "https://olegmakarenko.ru/2627227.html",
+            "urlToImage": "https://l-files.livejournal.net/og_image/12791732/10262?v=1674918084",
+            "publishedAt": "2023-01-28T15:00:34Z",
+            "content": "1. -. « », , - , - ():\r\n , «» . IT- - - .HeadHunter, 2022 88 , 90 . 58,7 , 63 , . .\r\n, , « IT- 2023 ». , , .\r\n« » , 2022 7 , 52 .\r\n2. . -, , . , , , .\r\n( ) 10 ( 6% , ). IBM 3900 , 1,5% ().\r\n80% , 6 (… [+177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "vsantonov",
+            "title": "Как сисадмин из Ульяновска попал в Кремниевую долину. Такая ли большая разница?",
+            "description": "Все так, с момента написания прошлой статьи, которая вошла в топ 3 по количеству комментариев за 2022г, я получил грин карту, женился и переехал, как мечтал, в столицу всего айти мира. Статья будет про мой карьерный путь, из простого сисадмина в Ульяновске, д…",
+            "url": "https://habr.com/ru/post/716348/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/533/1b9/613/5331b9613ffd25c5ec7fbf1d25434aba.jpg",
+            "publishedAt": "2023-02-13T05:49:59Z",
+            "content": "?\r\n  ,    . , , 70%   «fully remote», « »  .  , ,  , -       .    . , .\r\n. iPhone\r\n,     .   ,      , .   Apple,      .    ,   mp3  «»,    ,     . ,   «» ,   , .   , Windows XP , , . \r\n  ,     .    ,… [+5957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "VladimirBrejcha",
+            "title": "Как путешествия переворачивают ценности с ног на голову. Моя история выхода* из айти в номадство",
+            "description": "Небольшая история про выход из зоны комфорта и путешествия.Карьера в IT была моим главным приоритетом, но всё изменилось, когда я решил не возвращаться из путешествия, а попробовать пожить как digital nomad.Новый образ жизни сильно перетряхнул мои ценности: с…",
+            "url": "https://habr.com/ru/post/717252/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/070/91a/541/07091a5418faf4ccefc9f5ebef2e0fd1.png",
+            "publishedAt": "2023-02-16T09:35:41Z",
+            "content": ",  -  , !\r\n , , .\r\n! iOS \r\n, .\r\n, , , , ,  \r\n. .\r\n, , , , .\r\n  .  .\r\n   , : , .\r\n , , , . .\r\n13 , , .\r\n , ! , , .\r\n , , .\r\n , . .\r\n , , .\r\nKLCC\r\n. -\r\n,  **. ** , ** ,  ** \r\n, FAANG -** .\r\n , ,  \r\n: .… [+478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vz.ru"
+            },
+            "author": null,
+            "title": "Минюсту предложили внести Слепакова в список иноагентов",
+            "description": "Фонд защиты национального исторического наследия попросил главу Минюста России Константину Чуйченко признать иноагентом продюсера, артиста и музыканта Семена Слепакова из-за песни, дискредитирующей Вооруженные силы РФ. В обращении сказано, что Слепаков опубли…",
+            "url": "https://vz.ru/news/2023/1/25/1196528.html",
+            "urlToImage": "https://img.vz.ru/upimg/soc/soc_1196528.png",
+            "publishedAt": "2023-01-25T18:05:19Z",
+            "content": ", . , Abrams , . . Abrams.\r\n«, Abrams . . », - . « , , , . », . \r\n« , Abrams . , », . \r\n«Abrams . , . , , . . , », . \r\n« Abrams. «», . , -90. . , », . \r\n« Leopard, Abrams, Challenger . , . , . , 100 … [+243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "tarasovaaspb",
+            "title": "Как организовывала IT-сходку комьюнити для EdTech проекта",
+            "description": "Как организовывала IT-сходку для EdTech проекта.В одном из проектов была задача: организовать встречу студентов и выпускников EdTech проекта по обучению айти специальностями. Визуализировала я её так: Ребята общаются в неформальной барной обстановке. Студенты…",
+            "url": "https://habr.com/ru/post/717810/#post-content-body",
+            "urlToImage": "https://habr.com/share/publication/717810/a83dff1b9670f4ee64faff9807186b87/",
+            "publishedAt": "2023-02-18T19:12:54Z",
+            "content": "! -. , . \r\n  : EdTech .  : . , IT.\r\n : . , 100+ , (). , , .\r\n restoclub / -.\r\n5-6 , 100+ . , . , , , . \r\n . \r\n : , , , , , , , , .\r\n, . : Frontend developer, Java developer, student, + . .\r\n, .\r\n2 , … [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "ph_piter",
+            "title": "Книга «Computer Science для программиста-самоучки. Все что нужно знать о структурах данных и алгоритмах»",
+            "description": "Как дела, Хаброжители?\n\nКниги Кори Альтхоффа вдохновили сотни тысяч людей на самостоятельное изучение программирования.\n\nЧтобы стать профи в программировании, не обязательно иметь диплом в области computer science, и личный опыт Кори подтверждает это: он стал…",
+            "url": "https://habr.com/ru/company/piter/blog/711786/#post-content-body",
+            "urlToImage": "https://habr.com/share/publication/711786/9a389d3f18a88e65f95d74e480afc8b3/",
+            "publishedAt": "2023-01-31T12:34:08Z",
+            "content": ", ?.\r\n, computer science, : eBay .\r\ncomputer science, -, , . «Computer Science -» , «».\r\n, , computer science.\r\n, , , . , , , ? ! ! . , ., , , . . , . , . ! , « !» , , .\r\n, computer science? . , , ! … [+4722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "OldFashionedEngineer",
+            "title": "Шабашка или фриланс, на чьей стороне ты?",
+            "description": "С бурным развитием интернета, наверное, никому не нужно объяснять, что такое фриланс? Но ещё каких-то два с небольшим десятка лет назад, когда в нашей «деревне» интернет не укоренился, мы о таком и слыхом не слыхивали. \nВ наше время было простое и понятное вс…",
+            "url": "https://habr.com/ru/company/timeweb/blog/713602/#post-content-body",
+            "urlToImage": "https://habrastorage.org/webt/3a/r6/7t/3ar67td5-tsi5mlxbcwtkvvhjs4.png",
+            "publishedAt": "2023-02-04T14:01:01Z",
+            "content": ", , , ? - , «» , . , . ? .\r\n, , . , , . , - . .\r\n«» . , . . , . ? . , , ( - ). 90- 2000- , « » «». , - . .\r\n , , , . , , , . . :)))\r\n. , - - . , . . \r\n. , - . - . , . . , , . , , . , . , . \r\n, , , . … [+972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "VanyaDW",
+            "title": "Насколько ты заинтересован в трудоустройстве?",
+            "description": "В продолжение моего поста о нынешнем поиске работы. Один интересный случай. Сами нашли меня на HH, сами пригласили. Крупная айти-компания в составе холдинга, с кучей направлений бизнеса. Позвонила кадровичка. Сразу обрисовал ей ситуацию, что работу я ищу не п…",
+            "url": "https://pikabu.ru/story/naskolko_tyi_zainteresovan_v_trudoustroystve_9909041",
+            "urlToImage": "https://d.pikabu.ru/cache.php?route=share_preview&story_id=9909041&time=1675315906&u=VanyaDW",
+            "publishedAt": "2023-02-02T05:31:46Z",
+            "content": ". . HH, . - , . . , , , , . , . \" , , ? ? ?\". , 15, , , , , .\r\n 30, , , , . , , . \"\" ( ).\r\n . \" , . 10 17\". , , . - , 18.00. , , , . , , . , ...\r\n , . (. ). , , , . . ! 15 . , , , . , . , -hr-.\r\n -, … [+433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "Jaive",
+            "title": "Собеседования в FAANG like компании или почему мы не умеем оценивать кандидатов",
+            "description": "В этой статье я хочу поговорить об этапах отбора в FAANG (он же MAANG) компании. Сразу оговорюсь, что к таким компаниям я отнесу не только компании, которые входят в аббревиатуру, но и все компании, которые проводят собеседования по такой же системе. И так, к…",
+            "url": "https://habr.com/ru/post/715236/#post-content-body",
+            "urlToImage": "https://habr.com/share/publication/715236/67874cb9f86453532920e08d40d7a77f/",
+            "publishedAt": "2023-02-06T18:29:15Z",
+            "content": "FAANG ( MAANG) . , , , , . \r\n , ( / , ). , - . , 10 , . , , 1, . : , , , behavioral ( ) . . \r\n , ( , , \" \", FAANG like , ) LeetCode, HackerRank . . , ? , LeetCode, , .\r\n . , - . - , , , Grokking the … [+232 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnews.ru"
+            },
+            "author": null,
+            "title": "Решение «СКДПУ НТ» компании «Айти бастион» сертифицировано в Белоруссии",
+            "description": "«Айти бастион» объявила о том, что ее решение «СКДПУ НТ» прошло сертификационные испытания на соответствие требованиям...",
+            "url": "https://www.cnews.ru/news/line/2023-02-01_reshenie_skdpu_nt_kompanii",
+            "urlToImage": "https://www.cnews.ru/img/design2008/logocnews_f.png",
+            "publishedAt": "2023-02-01T12:42:00Z",
+            "content": "« » , « » « . . » ( 2013/027/BY). , 1 34.101.30-2017. . \r\n 2022 . « » . , . \r\n« . « » , , . , , . », « » ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vz.ru"
+            },
+            "author": null,
+            "title": "Малькевич предложил вносить дискредитирующих армию России из-за рубежа артистов в списки экстремистов",
+            "description": "«Если эти люди вернутся, они попадут под уголовное преследование, у них не будет здесь имущества, они не смогут зарабатывать на бюджетных проектах», – сказал газете ВЗГЛЯД член Общественной палаты Александр Малькевич, рассуждая о мерах, которые необходимо при…",
+            "url": "https://vz.ru/news/2023/1/25/1196477.html",
+            "urlToImage": "https://img.vz.ru/upimg/soc/soc_1196477.jpg",
+            "publishedAt": "2023-01-25T14:22:11Z",
+            "content": ", , «» . , . « » «» . \r\n« « » . , « ?». , », I , « » . \r\n« . . , , », . \r\n«, «» . , , . , . , , », . \r\n« . , , . , », . \r\n« , , . . . , . , : , », . \r\n, « » «» , « ». \r\n« , « » , , . », , . , , , . \r… [+123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vz.ru"
+            },
+            "author": null,
+            "title": "Блогеры возмутились песней Слепакова о гибели российских военных",
+            "description": "Блогеры обсуждают песню-сатиру Семена Слепакова о гибели сражающихся на Украине российских военных. Перебравшегося в Израиль юмориста призывают лишить российского гражданства. Слепаков в сатирической «колыбельной» поет о матери, один сын которой стал «специал…",
+            "url": "https://vz.ru/news/2023/1/25/1196418.html",
+            "urlToImage": "https://img.vz.ru/upimg/soc/soc_1196418.png",
+            "publishedAt": "2023-01-25T07:59:00Z",
+            "content": "- . .\r\n «» , « - » «», , . Telegram-. \r\n . , , . « . », , , « » . \r\n , , . , , . \r\n« , ? ? ? , », . \r\n , «---» , «» « ». \r\n« , . . . . . , . . », . \r\nTelegram- « » , , « », , « » . « , , , ». \r\n« , ,… [+52 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "krapiva201",
+            "title": "Ответ TBEPDOKOJI в «Про родительский контроль и ограничения компьютера»",
+            "description": "В 1996 году, когда мне исполнилось 6 лет в соседнюю квартиру переехала молодая пара лет 20, мы быстро с ними подружились. Я был очень рад гостить у них, ведь у них было денди. Финансовое положение семьи не позволяло купить мне его, потому я иногда играл у них…",
+            "url": "https://pikabu.ru/story/otvet_tbepdokoji_v_pro_roditelskiy_kontrol_i_ogranicheniya_kompyutera_9911058",
+            "urlToImage": "https://cs14.pikabu.ru/post_img/2023/02/02/9/og_og_1675351363263118896.jpg",
+            "publishedAt": "2023-02-02T15:22:48Z",
+            "content": "1996 , 6 20, . , . , , . ... 2002 , , PlayStation. , , , , . , , . , 2004 . 2005 . , D . , , . , . , . , . , . 11 2006/2007 , , ( ). , . . , , . , , - . - . , . . , 2005 2007 . . 2013 . 2014 , , , . … [+78 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "Gestana",
+            "title": "Ответ на пост «Работа мечты»",
+            "description": "Почитала пост и захотелось поделиться своей историей. Осторожно, длиннопост.\r\nЯ филолог английского языка, чистый гуманитарий.\r\nВо время учебы в универе увлеклась японским языком и даже сумела доучить его до среднего уровня, но постепенно забросила из-за рабо…",
+            "url": "https://pikabu.ru/story/otvet_na_post_rabota_mechtyi_9951326",
+            "urlToImage": "https://d.pikabu.ru/cache.php?route=share_preview&story_id=9951326&time=1676421792&u=Gestana",
+            "publishedAt": "2023-02-15T00:42:35Z",
+            "content": ". , .\r\n , .\r\n , - .\r\n 2015 . . , , , + , +. , 30 10 . , , . - . - , , , . , , .\r\n , , MS Exchange. , .\r\n . , , 50 . \"\", .\r\n 1 , , . 2014, , - . , - , . - , , , . , , .\r\n , 10 . , , , - . , - , , , , … [+433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "Аноним",
+            "title": "Ответ mrakoborets в «Про милф, которым 50»",
+            "description": "Попробую ка сформулировать похожую историю. Дело происходит в одном из миллионников одной из стран СНГ. Мне 38 лет. Развелся 2 года назад по почти обоюдному согласию, диагноз «не сошлись характерами» был очевиден несколько лет. \r\nДвоих своих детей очень люблю…",
+            "url": "https://pikabu.ru/story/otvet_mrakoborets_v_pro_milf_kotoryim_50_9889229",
+            "urlToImage": "https://d.pikabu.ru/cache.php?route=share_preview&story_id=9889229&time=1674805684&u=Аноним",
+            "publishedAt": "2023-01-27T07:48:04Z",
+            "content": ". . 38 . 2 , « » . \r\n . , . , )) \r\n . , 2 , , . , , , . , , , ))) , . , , )) \r\n 24 . , . . \r\n , . , )) , . . , . .\r\n, . , 300 , ? , . , . )) \r\n , : , , , , , , , , , . . , . \r\n , ? . , . , , . , . . … [+29 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securitylab.ru"
+            },
+            "author": "Alexander Antipov",
+            "title": "itbastion: Кто есть кто в «АйТи БАСТИОН»: HR-менеджер",
+            "description": "Всем большой привет! Надеемся, вы скучали по рубрике «Кто есть кто в «АйТи Бастион». Как вы помните, здесь мы рассказываем о наших специалистах и их должностных обязанностях в компании. И наш первый герой в этом году — HR-менеджер Анна Чигирина. Анна, здравст…",
+            "url": "https://www.securitylab.ru/blog/company/ITBastion/352626.php",
+            "urlToImage": "http://www.securitylab.ru/upload/blog/avatar/0e0/0e0ba3f6a39a107f6cb4c2136be28a5b.jpg",
+            "publishedAt": "2023-02-06T10:26:09Z",
+            "content": "6 , 2023, , . . , , . , , , . ???? ! .\r\n, . SecLabnews !"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Linux.org.ru"
+            },
+            "author": "thesis",
+            "title": "Какой язык программирования нужно забыть, чтобы выйти из IT?",
+            "description": "Я уже забыл php и python, почти забыл javascript и начал забывать C и bash. Подскажите, пожалуйста, что еще забыть завершающему, чтобы выйти из айти? Какое лучше выбрать направление в полезную, денежную и уважаемую специальность?Спасибо. \n\n \n\n \n \n \n  выйти из…",
+            "url": "https://www.linux.org.ru/forum/talks/17133095",
+            "urlToImage": "https://www.linux.org.ru/img/good-penguin.png",
+            "publishedAt": "2023-02-16T13:33:48Z",
+            "content": "php python, javascript C bash. , , , ? , ?."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "Lord.Goring",
+            "title": "История одного скромного успеха и переезда за границу",
+            "description": "На фоне постов \"лезу от бедности в петлю, хоть солдатом удачи иди, что делать, денег нет и заработать их невозможно\" захотелось мне рассказать историю скромного переезда в ее среднем виде. Нет, это не бизнес, не айти и даже не онлифанс, все намного прозаичнее…",
+            "url": "https://pikabu.ru/story/istoriya_odnogo_skromnogo_uspekha_i_pereezda_za_granitsu_9894062",
+            "urlToImage": "https://d.pikabu.ru/cache.php?route=share_preview&story_id=9894062&time=1674920082&u=Lord.Goring",
+            "publishedAt": "2023-01-28T15:34:42Z",
+            "content": "\" , , , \" . , , , : . 4 . . .\r\n ? , , , 1500. , 22 , . . . . ( ), , . - , . ( ) ( , ). , - , .. CIMA. , , , - , . , , . CIMA , , , , , . ( ) - , , .. . , . , , : / . , .\r\n ( , ), , . . . , , . . 3000… [+322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "RationalAnswer",
+            "title": "Дефицитище российского бюджета, нейросетевые страдания Гугла, а также лайковый баттхерт Илона Маска",
+            "description": "Всё самое важное, что произошло за неделю в мире финансов в России и в мире: Евросоюз «потерял» больше $200 миллиардов российских резервов, главный Zoom’ер сократил себе зарплату в 50 раз, американские регуляторы продолжают прижимать криптобиржи, а также нова…",
+            "url": "https://pikabu.ru/story/defitsitishche_rossiyskogo_byudzheta_neyrosetevyie_stradaniya_gugla_a_takzhe_laykovyiy_battkhert_ilona_maska_9945131",
+            "urlToImage": "https://cs13.pikabu.ru/post_img/2023/02/12/10/og_og_1676224609253790231.jpg",
+            "publishedAt": "2023-02-13T06:24:07Z",
+            "content": ", : «» $200 , Zoom 50 , , « »! ( .)\r\n 1,8 60% 2023 . 60% 35% (. ).\r\n, , « »: ; «» - - . -.\r\n , , « » . , , : « ?», « ?», .\r\n, - : « ? ?»\r\n, , $258 . , , 85% .\r\n , , ! , ? ? , Hogwarts Legacy?!\r\n , Fr… [+712 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securitylab.ru"
+            },
+            "author": "Alexander Antipov",
+            "title": "itbastion: СКДПУ НТ интегрирован с UTM-решением компании «Код Безопасности»",
+            "description": "Компании «АйТи Бастион» и «Код Безопасности» завершили тестирование интегрированного решения. Комплексная система контроля действий привилегированных пользователей СКДПУ НТ теперь успешно работает в связке с решением UTM со встроенным NGFW. Благодаря широкой …",
+            "url": "https://www.securitylab.ru/blog/company/ITBastion/352589.php",
+            "urlToImage": "http://www.securitylab.ru/upload/blog/avatar/0e0/0e0ba3f6a39a107f6cb4c2136be28a5b.jpg",
+            "publishedAt": "2023-01-24T08:39:51Z",
+            "content": "24 , 2023 DS Integrity NG, , . 2,24 /;\r\n« « » - , -. , . », - « » .\r\n, . SecLabnews !"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kommersant.ru"
+            },
+            "author": null,
+            "title": "Зарубежные СМИ: Почему Google рискует потерять свой рекламный бизнес? // 25 января, среда",
+            "description": "Минюст США и восемь штатов призывают лишить Google всех маркетинговых инструментов и площадок. Они обвиняют айти-гиганта в том, что компания много лет пользовалась доминирующим положением на рынке онлайн-рекламы. Это уже второй антимонопольный иск американски…",
+            "url": "https://www.kommersant.ru/doc/5784837",
+            "urlToImage": "https://im.kommersant.ru/SocialPics/5784837_26_2323256_874410314",
+            "publishedAt": "2023-01-25T08:10:53Z",
+            "content": "Google . - , -. Google. . 2020-. . Google ? ? FM.\r\nGoogle . -. , , , The Wall Street Journal. , , . . Google - . $8 2022 , YouTube, .\r\n - , , The Washington Post. , Google Search, YouTube -. Google .… [+145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pikabu.ru"
+            },
+            "author": "Mefodii",
+            "title": "Прокремлевский информационный пузырь Мефодия - 38(413)",
+            "description": "UPD351-1/08.02 ночь-утроDesigned by Flatformer\r\nСпасибо всем, кто нажимает кнопку РСсылки на телеграмм - в моём кабинете.__________________________________________\r\nПрезидент Франции Эмманюэль Макрон наградил своего украинского коллегу Владимира Зеленского вы…",
+            "url": "https://pikabu.ru/story/prokremlevskiy_informatsionnyiy_puzyir_mefodiya__38413_9933752",
+            "urlToImage": "https://cs13.pikabu.ru/post_img/2023/02/09/8/og_og_1675944213373031816.jpg",
+            "publishedAt": "2023-02-09T12:03:15Z",
+            "content": ". Twitter.\" . , , \", - . , . , 0:06 AFP: . .\r\n0:34 . \r\n0:36 : Twitter . Twitter . 16:00 . .\r\n0:45 Bloomberg: . , \" , Leopard-2, \" \" \". , 14 .\r\n0:46 . \" , - \". , .\r\n1:04 . \" . , , . , , . , \", - .\r\n1:… [+1244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnews.ru"
+            },
+            "author": null,
+            "title": "Axoft объяила о сотрудничестве с компанией «Айти бастион»",
+            "description": "Axoft объявила о сотрудничестве с российским вендором в области информационной безопасности «Айти бастион». Компании...",
+            "url": "https://www.cnews.ru/news/line/2023-02-16_axoft_obyaila_o_sotrudnichestve",
+            "urlToImage": "https://www.cnews.ru/img/design2008/logocnews_f.png",
+            "publishedAt": "2023-02-16T07:45:00Z",
+            "content": "Axoft « ». PAM . \r\n « » , , - . . - . , . « » , . , , .\r\n RDP, SSH, VNC . . , , , , . -4 -2.\r\n« » « » . , . « » , , , . Axoft -. , Axoft , \" PAM\" - », « » .\r\n« « » . -, Axoft , , , . « », « », . -, ,… [+82 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnews.ru"
+            },
+            "author": null,
+            "title": "Решение «СКДПУ НТ» компании «Айти бастион» сертифицировано в Белоруссии",
+            "description": "«Айти бастион» объявила о том, что ее решение «СКДПУ НТ» прошло сертификационные испытания на соответствие требованиям...",
+            "url": "https://safe.cnews.ru/news/line/2023-02-01_reshenie_skdpu_nt_kompanii",
+            "urlToImage": "https://www.cnews.ru/img/design2008/logocnews_f.png",
+            "publishedAt": "2023-02-01T12:42:00Z",
+            "content": "« » , « » « . . » ( 2013/027/BY). , 1 34.101.30-2017. . \r\n 2022 . « » . , . \r\n« . « » , , . , , . », « » ."
+        }
+    ]
+}
